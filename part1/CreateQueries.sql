@@ -1,3 +1,5 @@
+﻿CREATE DATABASE customer_management;
+
 CREATE TABLE productlines (
     productLine VARCHAR(50) PRIMARY KEY,
     textDescription NVARCHAR(MAX),
@@ -120,7 +122,155 @@ CREATE TABLE productReviews (
     CONSTRAINT FK_ReviewCustomerNumber FOREIGN KEY (customerNumber) REFERENCES customers(customerNumber)
 );
 
-GO
+
+CREATE PROCEDURE InsertRealisticOffices
+    @RecordCount INT
+AS
+BEGIN
+    DECLARE @Counter INT = 1;
+    DECLARE @RandomCity NVARCHAR(50);
+    DECLARE @RandomPhone NVARCHAR(20);
+    DECLARE @RandomAddress NVARCHAR(100);
+    DECLARE @RandomCountry NVARCHAR(50);
+    DECLARE @RandomPostalCode NVARCHAR(15);
+    DECLARE @PhonePrefix VARCHAR(3);
+
+    -- Array of realistic cities and countries
+    DECLARE @CitiesArray TABLE (City NVARCHAR(50), Country NVARCHAR(50), PostalCode NVARCHAR(15));
+    INSERT INTO @CitiesArray VALUES 
+        ('New York', 'USA', '10001'),
+        ('London', 'UK', 'SW1A 1AA'),
+        ('Tokyo', 'Japan', '100-0001'),
+        ('Paris', 'France', '75001'),
+        ('Berlin', 'Germany', '10115');
+
+    -- Start the loop to insert realistic offices
+    WHILE @Counter <= @RecordCount
+    BEGIN
+        -- Select random city, country, and postal code
+        SELECT TOP 1 
+            @RandomCity = City,
+            @RandomCountry = Country,
+            @RandomPostalCode = PostalCode
+        FROM @CitiesArray ORDER BY NEWID();
+
+        -- Generate random phone number
+        SET @PhonePrefix = '123'; -- Adjust the prefix for each country as needed
+        SET @RandomPhone = @PhonePrefix + '-456-' + RIGHT('000' + CAST(FLOOR(RAND() * 1000) AS VARCHAR), 3);
+
+        -- Generate random address
+        SET @RandomAddress = '123 Main St, ' + @RandomCity;
+
+        -- Insert realistic office data
+        INSERT INTO offices (
+            officeCode,
+            city,
+            phone,
+            addressLine1,
+            addressLine2,
+            state,
+            country,
+            postalCode,
+            territory
+        )
+        VALUES (
+            CAST(@Counter AS VARCHAR),
+            @RandomCity,
+            @RandomPhone,
+            @RandomAddress,
+            NULL,
+            NULL,
+            @RandomCountry,
+            @RandomPostalCode,
+            'NA'
+        );
+
+        -- Increment counter
+        SET @Counter = @Counter + 1;
+    END
+END;
+
+-- Run the procedure
+EXEC InsertRealisticOffices @RecordCount = 1000;
+
+-- Check the inserted data
+SELECT * FROM offices;
+
+
+CREATE PROCEDURE InsertRealisticEmployees
+    @RecordCount INT
+AS
+BEGIN
+    DECLARE @Counter INT = 1;
+    DECLARE @MaxEmployeeNumber INT;
+    DECLARE @RandomPhone VARCHAR(50);
+    DECLARE @RandomOfficeCode VARCHAR(10);
+    DECLARE @JobTitle NVARCHAR(50);
+    DECLARE @LastNames NVARCHAR(50);
+    DECLARE @FirstNames NVARCHAR(50);
+
+    -- Array of realistic job titles
+    DECLARE @JobTitles TABLE (JobTitle NVARCHAR(50));
+    INSERT INTO @JobTitles VALUES ('Sales Manager'), ('Engineer'), ('Marketing Specialist'), ('HR Coordinator'), ('Accountant');
+
+    DECLARE @LastNamesArray TABLE (LastName NVARCHAR(50));
+    INSERT INTO @LastNamesArray VALUES ('Smith'), ('Johnson'), ('Williams'), ('Jones'), ('Brown'), ('Davis');
+
+    DECLARE @FirstNamesArray TABLE (FirstName NVARCHAR(50));
+    INSERT INTO @FirstNamesArray VALUES ('James'), ('John'), ('Robert'), ('Michael'), ('William'), ('David');
+
+    -- Get the current maximum employeeNumber in the table
+    SELECT @MaxEmployeeNumber = ISNULL(MAX(employeeNumber), 0) FROM employees;
+
+    -- Start the loop from the next available employeeNumber
+    SET @Counter = @MaxEmployeeNumber + 1;
+
+    WHILE @Counter <= @MaxEmployeeNumber + @RecordCount
+    BEGIN
+        -- Random phone number generation (use different formats based on country/region)
+        SET @RandomPhone = '987-654-' + RIGHT('000' + CAST(FLOOR(RAND() * 1000) AS VARCHAR), 3);
+        
+        -- Select random job title
+        SELECT TOP 1 @JobTitle = JobTitle FROM @JobTitles ORDER BY NEWID();
+
+        -- Select random names
+        SELECT TOP 1 @LastNames = LastName FROM @LastNamesArray ORDER BY NEWID();
+        SELECT TOP 1 @FirstNames = FirstName FROM @FirstNamesArray ORDER BY NEWID();
+        
+        -- Select random office code from the offices table
+        SELECT TOP 1 @RandomOfficeCode = officeCode FROM offices ORDER BY NEWID();
+
+        -- Insert realistic employee data
+        INSERT INTO employees (
+            employeeNumber, 
+            lastName, 
+            firstName, 
+            extension, 
+            email, 
+            officeCode, 
+            reportsTo, 
+            jobTitle
+        )
+        VALUES (
+            @Counter,  -- Unique employeeNumber
+            @LastNames,  -- lastName
+            @FirstNames,  -- firstName
+            'EXT' + RIGHT('000' + CAST(FLOOR(RAND() * 1000) AS VARCHAR), 3),  -- extension
+            @FirstNames + '.' + @LastNames + '@company.com',  -- email
+            @RandomOfficeCode,  -- officeCode (select from existing offices)
+            NULL,  -- reportsTo (can be filled later if needed)
+            @JobTitle  -- jobTitle (random selection)
+        );
+
+        -- Increment counter
+        SET @Counter = @Counter + 1;
+    END
+END;
+
+EXEC InsertRealisticEmployees @RecordCount = 1000;
+
+-- عرض البيانات
+SELECT * FROM employees;
 
 CREATE PROCEDURE InsertRealisticProductLines3
     @RecordCount INT
@@ -167,16 +317,12 @@ BEGIN
         SET @Counter = @Counter + 1;
     END
 END;
-GO
 
 -- Run the procedure to insert 1000 rows
 EXEC InsertRealisticProductLines3 @RecordCount = 1000;
-GO
-
--- Retrieve data from productlines table
 SELECT * FROM productlines;
 
-Go
+
 CREATE PROCEDURE InsertRealisticProducts1
     @RecordCount INT
 AS
@@ -258,167 +404,14 @@ BEGIN
         SET @Counter = @Counter + 1;
     END
 END;
-GO
 
--- Execute the procedure
+
+-- To execute the procedure:
 EXEC InsertRealisticProducts1 @RecordCount = 1000;
-GO
-
 -- Select data
 SELECT * FROM products;
 
-Go
-CREATE PROCEDURE InsertRealisticOffices
-    @RecordCount INT
-AS
-BEGIN
-    DECLARE @Counter INT = 1;
-    DECLARE @RandomCity NVARCHAR(50);
-    DECLARE @RandomPhone NVARCHAR(20);
-    DECLARE @RandomAddress NVARCHAR(100);
-    DECLARE @RandomCountry NVARCHAR(50);
-    DECLARE @RandomPostalCode NVARCHAR(15);
-    DECLARE @PhonePrefix VARCHAR(3);
 
-    -- Array of realistic cities and countries
-    DECLARE @CitiesArray TABLE (City NVARCHAR(50), Country NVARCHAR(50), PostalCode NVARCHAR(15));
-    INSERT INTO @CitiesArray VALUES 
-        ('New York', 'USA', '10001'),
-        ('London', 'UK', 'SW1A 1AA'),
-        ('Tokyo', 'Japan', '100-0001'),
-        ('Paris', 'France', '75001'),
-        ('Berlin', 'Germany', '10115');
-
-    -- Start the loop to insert realistic offices
-    WHILE @Counter <= @RecordCount
-    BEGIN
-        -- Select random city, country, and postal code
-        SELECT TOP 1 
-            @RandomCity = City,
-            @RandomCountry = Country,
-            @RandomPostalCode = PostalCode
-        FROM @CitiesArray ORDER BY NEWID();
-
-        -- Generate random phone number
-        SET @PhonePrefix = '123'; -- Adjust the prefix for each country as needed
-        SET @RandomPhone = @PhonePrefix + '-456-' + RIGHT('000' + CAST(FLOOR(RAND() * 1000) AS VARCHAR), 3);
-
-        -- Generate random address
-        SET @RandomAddress = '123 Main St, ' + @RandomCity;
-
-        -- Insert realistic office data
-        INSERT INTO offices (
-            officeCode,
-            city,
-            phone,
-            addressLine1,
-            addressLine2,
-            state,
-            country,
-            postalCode,
-            territory
-        )
-        VALUES (
-            CAST(@Counter AS VARCHAR),
-            @RandomCity,
-            @RandomPhone,
-            @RandomAddress,
-            NULL,
-            NULL,
-            @RandomCountry,
-            @RandomPostalCode,
-            'NA'
-        );
-
-        -- Increment counter
-        SET @Counter = @Counter + 1;
-    END
-END;
-Go
--- Run the procedure
-EXEC InsertRealisticOffices @RecordCount = 1000;
-Go
--- Check the inserted data
-SELECT * FROM offices;
-
-Go
-CREATE PROCEDURE InsertRealisticEmployees
-    @RecordCount INT
-AS
-BEGIN
-    DECLARE @Counter INT = 1;
-    DECLARE @MaxEmployeeNumber INT;
-    DECLARE @RandomPhone VARCHAR(50);
-    DECLARE @RandomOfficeCode VARCHAR(10);
-    DECLARE @JobTitle NVARCHAR(50);
-    DECLARE @LastNames NVARCHAR(50);
-    DECLARE @FirstNames NVARCHAR(50);
-
-    -- Array of realistic job titles
-    DECLARE @JobTitles TABLE (JobTitle NVARCHAR(50));
-    INSERT INTO @JobTitles VALUES ('Sales Manager'), ('Engineer'), ('Marketing Specialist'), ('HR Coordinator'), ('Accountant');
-
-    DECLARE @LastNamesArray TABLE (LastName NVARCHAR(50));
-    INSERT INTO @LastNamesArray VALUES ('Smith'), ('Johnson'), ('Williams'), ('Jones'), ('Brown'), ('Davis');
-
-    DECLARE @FirstNamesArray TABLE (FirstName NVARCHAR(50));
-    INSERT INTO @FirstNamesArray VALUES ('James'), ('John'), ('Robert'), ('Michael'), ('William'), ('David');
-
-    -- Get the current maximum employeeNumber in the table
-    SELECT @MaxEmployeeNumber = ISNULL(MAX(employeeNumber), 0) FROM employees;
-
-    -- Start the loop from the next available employeeNumber
-    SET @Counter = @MaxEmployeeNumber + 1;
-
-    WHILE @Counter <= @MaxEmployeeNumber + @RecordCount
-    BEGIN
-        -- Random phone number generation (use different formats based on country/region)
-        SET @RandomPhone = '987-654-' + RIGHT('000' + CAST(FLOOR(RAND() * 1000) AS VARCHAR), 3);
-        
-        -- Select random job title
-        SELECT TOP 1 @JobTitle = JobTitle FROM @JobTitles ORDER BY NEWID();
-
-        -- Select random names
-        SELECT TOP 1 @LastNames = LastName FROM @LastNamesArray ORDER BY NEWID();
-        SELECT TOP 1 @FirstNames = FirstName FROM @FirstNamesArray ORDER BY NEWID();
-        
-        -- Select random office code from the offices table
-        SELECT TOP 1 @RandomOfficeCode = officeCode FROM offices ORDER BY NEWID();
-
-        -- Insert realistic employee data
-        INSERT INTO employees (
-            employeeNumber, 
-            lastName, 
-            firstName, 
-            extension, 
-            email, 
-            officeCode, 
-            reportsTo, 
-            jobTitle
-        )
-        VALUES (
-            @Counter,  -- Unique employeeNumber
-            @LastNames,  -- lastName
-            @FirstNames,  -- firstName
-            'EXT' + RIGHT('000' + CAST(FLOOR(RAND() * 1000) AS VARCHAR), 3),  -- extension
-            @FirstNames + '.' + @LastNames + '@company.com',  -- email
-            @RandomOfficeCode,  -- officeCode (select from existing offices)
-            NULL,  -- reportsTo (can be filled later if needed)
-            @JobTitle  -- jobTitle (random selection)
-        );
-
-        -- Increment counter
-        SET @Counter = @Counter + 1;
-    END
-END;
-Go
-EXEC InsertRealisticEmployees @RecordCount = 1000;
-Go
--- ??? ????????
-SELECT * FROM employees;
-
-
-Go
 CREATE PROCEDURE InsertRealisticCustomers7
     @RecordCount INT
 AS
@@ -442,7 +435,7 @@ BEGIN
     DECLARE @Cities TABLE (City VARCHAR(50), State VARCHAR(50));
     INSERT INTO @Cities VALUES 
     ('New York', 'NY'), ('Los Angeles', 'CA'), ('Chicago', 'IL'),
-    ('Berlin', 'Berlin'), ('Paris', '�le-de-France'), ('Rome', 'Lazio');
+    ('Berlin', 'Berlin'), ('Paris', 'Île-de-France'), ('Rome', 'Lazio');
 
     DECLARE @LastNamesArray TABLE (LastName NVARCHAR(50));
     INSERT INTO @LastNamesArray VALUES ('Smith'), ('Johnson'), ('Williams'), ('Jones'), ('Brown'), ('Davis');
@@ -514,11 +507,10 @@ BEGIN
         SET @Counter = @Counter + 1;
     END
 END;
-Go
-EXEC InsertRealisticCustomers7 @RecordCount = 1000;
-Go
-select * from customers 
 
+EXEC InsertRealisticCustomers7 @RecordCount = 1000;
+
+select * from customers 
 
 Go
 CREATE PROCEDURE InsertRealisticOrders
@@ -583,7 +575,7 @@ END;
 Go
 EXEC InsertRealisticOrders @RecordCount = 1000;
 Go
--- ??? ????????
+-- عرض البيانات
 SELECT * FROM orders;
 
 Go
@@ -653,7 +645,7 @@ Go
 -- Select data
 SELECT * FROM orderdetails;
 
-Go
+
 CREATE PROCEDURE InsertRealisticPayments
     @RecordCount INT
 AS
@@ -695,14 +687,12 @@ BEGIN
         SET @Counter = @Counter + 1;
     END
 END;
-Go
+
 -- To execute
 EXEC InsertRealisticPayments @RecordCount = 1000;
-Go
 -- Select data
 SELECT * FROM payments;
 
-Go
 CREATE PROCEDURE InsertRealisticInteractions
     @RecordCount INT
 AS
@@ -752,13 +742,13 @@ BEGIN
         SET @Counter = @Counter + 1;
     END
 END;
-Go
+
 -- Run the procedure to insert 1000 rows
 EXEC InsertRealisticInteractions @RecordCount = 1000;
-Go
+
 -- Check the inserted data
 SELECT * FROM interactions;
-Go
+
 CREATE PROCEDURE InsertRealisticProductReviews
     @RecordCount INT
 AS
@@ -811,9 +801,22 @@ BEGIN
         SET @Counter = @Counter + 1;
     END
 END;
-Go
+
 -- Run the procedure to insert 1000 rows
 EXEC InsertRealisticProductReviews @RecordCount = 1000;
-Go
+
 -- Check the inserted data
 SELECT * FROM productReviews;
+
+
+select * from customers
+select * from employees
+select * from interactions
+select * from offices
+select * from interactions
+select * from orderdetails
+select * from orders
+select * from payments
+select * from productlines
+select * from productReviews
+select * from products
