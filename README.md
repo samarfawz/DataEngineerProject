@@ -1,5 +1,6 @@
 # Project Title
 Customer Data Management and Analysis
+
 ## Description
 This project includes a series of SQL queries for creating tables,
 inserting data, and performing basic analysis. It also provides the results of the analysis in PDF format,

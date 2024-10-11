@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('background.PNG'); /* استبدل 'background.PNG' بمسار الصورة الخاصة بك */
+    background-size: cover; /* لتغطية الشاشة بالكامل */
+    background-position: center; /* لمركز الصورة */
+    background-repeat: no-repeat; /* لمنع تكرار الصورة */
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #992151; /* لون وردي فاتح */
+    text-align: center;
+    margin-bottom: 20px; /* إضافة مسافة أسفل العنوان */
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.9); /* خلفية بيضاء مع شفافية */
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #992151; /* لون وردي فاتح */
+}
+
+input[type="number"], input[type="submit"] {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ffb3d9; /* لون وردي فاتح */
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+input[type="submit"] {
+    background-color: #992151; /* لون وردي فاتح */
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+input[type="submit"]:hover {
+    background-color: #7a1635; /* لون وردي أغمق عند التمرير */
+    transform: scale(1.05);
+}
+
+.result-container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    max-width: 600px;
+    margin: 100px auto 50px; /* إضافة مسافة أعلى (100px) */
+    text-align: center;
+}
+
+.result-text {
+    font-size: 22px;
+    color: #992151; /* لون وردي فاتح */
+    margin-bottom: 25px;
+}
+
+a {
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    color: #992151; /* لون وردي فاتح */
+    padding: 12px 18px;
+    border-radius: 5px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+a:hover {
+    text-decoration: underline;
+    background-color: rgba(255, 0, 102, 0.2); /* لون خلفية وردي فاتح عند التمرير */
+    transform: scale(1.05);
+}

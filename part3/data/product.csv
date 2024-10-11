@@ -1,0 +1,1001 @@
+﻿productCode,productName,productLine,productScale,productVendor,productDescription,quantityInStock,buyPrice,MSRP
+PRD00001,Product 1,Planes 553,1:24,Vendor B,"High-quality product 1, designed for performance and durability.",658,744.67,1030.49
+PRD00002,Product 2,Ships 737,1:50,Vendor C,"High-quality product 2, designed for performance and durability.",920,44.30,54.47
+PRD00003,Product 3,Classic Cars 948,1:18,Vendor A,"High-quality product 3, designed for performance and durability.",350,208.36,257.31
+PRD00004,Product 4,Ships 971,1:24,Vendor B,"High-quality product 4, designed for performance and durability.",736,127.78,189.22
+PRD00005,Product 5,Ships 2,1:50,Vendor C,"High-quality product 5, designed for performance and durability.",594,369.35,533.16
+PRD00006,Product 6,Planes 150,1:18,Vendor A,"High-quality product 6, designed for performance and durability.",927,302.10,396.80
+PRD00007,Product 7,Ships 994,1:24,Vendor B,"High-quality product 7, designed for performance and durability.",720,927.99,1234.77
+PRD00008,Product 8,Planes 862,1:50,Vendor C,"High-quality product 8, designed for performance and durability.",317,729.07,1012.96
+PRD00009,Product 9,Ships 696,1:18,Vendor A,"High-quality product 9, designed for performance and durability.",860,574.56,735.91
+PRD00010,Product 10,Classic Cars 335,1:24,Vendor B,"High-quality product 10, designed for performance and durability.",775,203.69,287.24
+PRD00011,Product 11,Classic Cars 452,1:50,Vendor C,"High-quality product 11, designed for performance and durability.",488,710.36,926.52
+PRD00012,Product 12,Classic Cars 725,1:18,Vendor A,"High-quality product 12, designed for performance and durability.",982,662.25,893.55
+PRD00013,Product 13,Ships 674,1:24,Vendor B,"High-quality product 13, designed for performance and durability.",618,84.31,111.08
+PRD00014,Product 14,Motorcycles 123,1:50,Vendor C,"High-quality product 14, designed for performance and durability.",863,267.89,336.03
+PRD00015,Product 15,Trains 111,1:18,Vendor A,"High-quality product 15, designed for performance and durability.",784,451.16,573.03
+PRD00016,Product 16,Ships 404,1:24,Vendor B,"High-quality product 16, designed for performance and durability.",509,534.31,678.80
+PRD00017,Product 17,Ships 568,1:50,Vendor C,"High-quality product 17, designed for performance and durability.",691,133.27,199.60
+PRD00018,Product 18,Planes 470,1:18,Vendor A,"High-quality product 18, designed for performance and durability.",179,407.23,558.18
+PRD00019,Product 19,Classic Cars 364,1:24,Vendor B,"High-quality product 19, designed for performance and durability.",255,841.35,1127.67
+PRD00020,Product 20,Ships 94,1:50,Vendor C,"High-quality product 20, designed for performance and durability.",884,898.17,1141.14
+PRD00021,Product 21,Motorcycles 409,1:18,Vendor A,"High-quality product 21, designed for performance and durability.",910,601.73,902.27
+PRD00022,Product 22,Planes 40,1:24,Vendor B,"High-quality product 22, designed for performance and durability.",775,589.74,734.65
+PRD00023,Product 23,Motorcycles 472,1:50,Vendor C,"High-quality product 23, designed for performance and durability.",918,383.38,518.99
+PRD00024,Product 24,Motorcycles 996,1:18,Vendor A,"High-quality product 24, designed for performance and durability.",732,975.51,1316.98
+PRD00025,Product 25,Motorcycles 694,1:24,Vendor B,"High-quality product 25, designed for performance and durability.",866,250.64,306.03
+PRD00026,Product 26,Trains 799,1:50,Vendor C,"High-quality product 26, designed for performance and durability.",898,549.17,683.35
+PRD00027,Product 27,Planes 463,1:18,Vendor A,"High-quality product 27, designed for performance and durability.",184,175.11,210.45
+PRD00028,Product 28,Planes 882,1:24,Vendor B,"High-quality product 28, designed for performance and durability.",615,952.16,1227.62
+PRD00029,Product 29,Classic Cars 261,1:50,Vendor C,"High-quality product 29, designed for performance and durability.",639,483.90,669.42
+PRD00030,Product 30,Classic Cars 483,1:18,Vendor A,"High-quality product 30, designed for performance and durability.",131,933.24,1193.48
+PRD00031,Product 31,Classic Cars 345,1:24,Vendor B,"High-quality product 31, designed for performance and durability.",908,409.46,534.30
+PRD00032,Product 32,Motorcycles 281,1:50,Vendor C,"High-quality product 32, designed for performance and durability.",1000,904.55,1089.89
+PRD00033,Product 33,Motorcycles 904,1:18,Vendor A,"High-quality product 33, designed for performance and durability.",843,15.43,19.21
+PRD00034,Product 34,Motorcycles 433,1:24,Vendor B,"High-quality product 34, designed for performance and durability.",545,230.78,289.50
+PRD00035,Product 35,Trains 64,1:50,Vendor C,"High-quality product 35, designed for performance and durability.",641,605.70,854.88
+PRD00036,Product 36,Trains 330,1:18,Vendor A,"High-quality product 36, designed for performance and durability.",493,134.38,197.43
+PRD00037,Product 37,Motorcycles 49,1:24,Vendor B,"High-quality product 37, designed for performance and durability.",792,194.12,259.08
+PRD00038,Product 38,Classic Cars 968,1:50,Vendor C,"High-quality product 38, designed for performance and durability.",382,270.63,325.85
+PRD00039,Product 39,Planes 838,1:18,Vendor A,"High-quality product 39, designed for performance and durability.",127,634.27,905.75
+PRD00040,Product 40,Planes 753,1:24,Vendor B,"High-quality product 40, designed for performance and durability.",782,200.54,259.87
+PRD00041,Product 41,Classic Cars 791,1:50,Vendor C,"High-quality product 41, designed for performance and durability.",403,345.62,495.15
+PRD00042,Product 42,Motorcycles 820,1:18,Vendor A,"High-quality product 42, designed for performance and durability.",230,802.15,1082.35
+PRD00043,Product 43,Motorcycles 263,1:24,Vendor B,"High-quality product 43, designed for performance and durability.",121,690.85,1018.50
+PRD00044,Product 44,Ships 947,1:50,Vendor C,"High-quality product 44, designed for performance and durability.",399,472.90,653.64
+PRD00045,Product 45,Trains 53,1:18,Vendor A,"High-quality product 45, designed for performance and durability.",575,738.72,1082.07
+PRD00046,Product 46,Planes 237,1:24,Vendor B,"High-quality product 46, designed for performance and durability.",978,560.23,811.27
+PRD00047,Product 47,Ships 970,1:50,Vendor C,"High-quality product 47, designed for performance and durability.",256,379.82,483.84
+PRD00048,Product 48,Trains 232,1:18,Vendor A,"High-quality product 48, designed for performance and durability.",954,120.38,145.72
+PRD00049,Product 49,Planes 298,1:24,Vendor B,"High-quality product 49, designed for performance and durability.",458,769.96,1111.74
+PRD00050,Product 50,Planes 317,1:50,Vendor C,"High-quality product 50, designed for performance and durability.",206,783.67,1067.19
+PRD00051,Product 51,Classic Cars 508,1:18,Vendor A,"High-quality product 51, designed for performance and durability.",808,372.59,546.43
+PRD00052,Product 52,Ships 522,1:24,Vendor B,"High-quality product 52, designed for performance and durability.",122,685.84,923.42
+PRD00053,Product 53,Classic Cars 139,1:50,Vendor C,"High-quality product 53, designed for performance and durability.",396,454.39,581.19
+PRD00054,Product 54,Motorcycles 99,1:18,Vendor A,"High-quality product 54, designed for performance and durability.",508,375.41,558.24
+PRD00055,Product 55,Classic Cars 120,1:24,Vendor B,"High-quality product 55, designed for performance and durability.",474,60.10,87.16
+PRD00056,Product 56,Planes 917,1:50,Vendor C,"High-quality product 56, designed for performance and durability.",758,695.45,895.81
+PRD00057,Product 57,Ships 746,1:18,Vendor A,"High-quality product 57, designed for performance and durability.",459,950.03,1256.29
+PRD00058,Product 58,Planes 376,1:24,Vendor B,"High-quality product 58, designed for performance and durability.",993,557.86,678.94
+PRD00059,Product 59,Classic Cars 357,1:50,Vendor C,"High-quality product 59, designed for performance and durability.",459,959.52,1283.71
+PRD00060,Product 60,Ships 435,1:18,Vendor A,"High-quality product 60, designed for performance and durability.",352,745.29,925.79
+PRD00061,Product 61,Motorcycles 686,1:24,Vendor B,"High-quality product 61, designed for performance and durability.",208,848.77,1146.83
+PRD00062,Product 62,Ships 314,1:50,Vendor C,"High-quality product 62, designed for performance and durability.",72,375.87,558.00
+PRD00063,Product 63,Planes 701,1:18,Vendor A,"High-quality product 63, designed for performance and durability.",109,725.34,909.57
+PRD00064,Product 64,Planes 870,1:24,Vendor B,"High-quality product 64, designed for performance and durability.",598,627.32,921.96
+PRD00065,Product 65,Classic Cars 896,1:50,Vendor C,"High-quality product 65, designed for performance and durability.",826,964.28,1261.64
+PRD00066,Product 66,Classic Cars 262,1:18,Vendor A,"High-quality product 66, designed for performance and durability.",115,700.52,848.67
+PRD00067,Product 67,Classic Cars 182,1:24,Vendor B,"High-quality product 67, designed for performance and durability.",118,575.27,852.36
+PRD00068,Product 68,Motorcycles 437,1:50,Vendor C,"High-quality product 68, designed for performance and durability.",688,373.31,484.78
+PRD00069,Product 69,Classic Cars 120,1:18,Vendor A,"High-quality product 69, designed for performance and durability.",964,895.65,1080.55
+PRD00070,Product 70,Motorcycles 439,1:24,Vendor B,"High-quality product 70, designed for performance and durability.",425,609.70,887.14
+PRD00071,Product 71,Classic Cars 954,1:50,Vendor C,"High-quality product 71, designed for performance and durability.",732,744.53,1093.18
+PRD00072,Product 72,Ships 66,1:18,Vendor A,"High-quality product 72, designed for performance and durability.",72,704.13,1023.17
+PRD00073,Product 73,Ships 181,1:24,Vendor B,"High-quality product 73, designed for performance and durability.",805,294.59,376.17
+PRD00074,Product 74,Classic Cars 364,1:50,Vendor C,"High-quality product 74, designed for performance and durability.",999,611.11,912.10
+PRD00075,Product 75,Trains 407,1:18,Vendor A,"High-quality product 75, designed for performance and durability.",327,924.12,1155.86
+PRD00076,Product 76,Trains 600,1:24,Vendor B,"High-quality product 76, designed for performance and durability.",396,170.34,234.99
+PRD00077,Product 77,Planes 171,1:50,Vendor C,"High-quality product 77, designed for performance and durability.",444,616.53,913.01
+PRD00078,Product 78,Classic Cars 510,1:18,Vendor A,"High-quality product 78, designed for performance and durability.",570,451.49,562.72
+PRD00079,Product 79,Classic Cars 481,1:24,Vendor B,"High-quality product 79, designed for performance and durability.",262,574.35,700.42
+PRD00080,Product 80,Trains 308,1:50,Vendor C,"High-quality product 80, designed for performance and durability.",950,256.21,343.08
+PRD00081,Product 81,Ships 746,1:18,Vendor A,"High-quality product 81, designed for performance and durability.",923,278.55,367.35
+PRD00082,Product 82,Trains 19,1:24,Vendor B,"High-quality product 82, designed for performance and durability.",221,203.25,292.91
+PRD00083,Product 83,Trains 894,1:50,Vendor C,"High-quality product 83, designed for performance and durability.",616,289.62,419.70
+PRD00084,Product 84,Trains 604,1:18,Vendor A,"High-quality product 84, designed for performance and durability.",317,723.20,1024.98
+PRD00085,Product 85,Trains 24,1:24,Vendor B,"High-quality product 85, designed for performance and durability.",650,620.72,915.78
+PRD00086,Product 86,Planes 470,1:50,Vendor C,"High-quality product 86, designed for performance and durability.",529,370.95,554.76
+PRD00087,Product 87,Motorcycles 74,1:18,Vendor A,"High-quality product 87, designed for performance and durability.",748,852.88,1256.89
+PRD00088,Product 88,Trains 869,1:24,Vendor B,"High-quality product 88, designed for performance and durability.",120,330.90,416.35
+PRD00089,Product 89,Ships 515,1:50,Vendor C,"High-quality product 89, designed for performance and durability.",848,808.41,1207.70
+PRD00090,Product 90,Trains 478,1:18,Vendor A,"High-quality product 90, designed for performance and durability.",119,453.35,585.67
+PRD00091,Product 91,Planes 271,1:24,Vendor B,"High-quality product 91, designed for performance and durability.",620,939.21,1394.42
+PRD00092,Product 92,Ships 304,1:50,Vendor C,"High-quality product 92, designed for performance and durability.",311,811.51,1092.00
+PRD00093,Product 93,Classic Cars 697,1:18,Vendor A,"High-quality product 93, designed for performance and durability.",393,724.30,922.64
+PRD00094,Product 94,Trains 786,1:24,Vendor B,"High-quality product 94, designed for performance and durability.",122,762.48,1044.17
+PRD00095,Product 95,Ships 746,1:50,Vendor C,"High-quality product 95, designed for performance and durability.",858,253.60,374.21
+PRD00096,Product 96,Classic Cars 253,1:18,Vendor A,"High-quality product 96, designed for performance and durability.",398,50.75,65.15
+PRD00097,Product 97,Classic Cars 867,1:24,Vendor B,"High-quality product 97, designed for performance and durability.",452,538.10,781.22
+PRD00098,Product 98,Ships 955,1:50,Vendor C,"High-quality product 98, designed for performance and durability.",577,919.96,1232.26
+PRD00099,Product 99,Motorcycles 524,1:18,Vendor A,"High-quality product 99, designed for performance and durability.",661,409.87,517.71
+PRD00100,Product 100,Planes 555,1:24,Vendor B,"High-quality product 100, designed for performance and durability.",274,606.78,874.15
+PRD00101,Product 101,Classic Cars 253,1:50,Vendor C,"High-quality product 101, designed for performance and durability.",924,666.27,835.36
+PRD00102,Product 102,Ships 824,1:18,Vendor A,"High-quality product 102, designed for performance and durability.",184,170.49,240.68
+PRD00103,Product 103,Classic Cars 698,1:24,Vendor B,"High-quality product 103, designed for performance and durability.",804,431.50,545.79
+PRD00104,Product 104,Motorcycles 32,1:50,Vendor C,"High-quality product 104, designed for performance and durability.",346,101.91,124.82
+PRD00105,Product 105,Classic Cars 364,1:18,Vendor A,"High-quality product 105, designed for performance and durability.",324,398.92,574.05
+PRD00106,Product 106,Trains 572,1:24,Vendor B,"High-quality product 106, designed for performance and durability.",532,873.94,1167.69
+PRD00107,Product 107,Ships 9,1:50,Vendor C,"High-quality product 107, designed for performance and durability.",891,979.01,1299.53
+PRD00108,Product 108,Motorcycles 524,1:18,Vendor A,"High-quality product 108, designed for performance and durability.",1000,455.36,671.30
+PRD00109,Product 109,Motorcycles 978,1:24,Vendor B,"High-quality product 109, designed for performance and durability.",872,347.23,455.67
+PRD00110,Product 110,Classic Cars 114,1:50,Vendor C,"High-quality product 110, designed for performance and durability.",447,117.02,152.76
+PRD00111,Product 111,Motorcycles 493,1:18,Vendor A,"High-quality product 111, designed for performance and durability.",172,20.42,29.47
+PRD00112,Product 112,Planes 903,1:24,Vendor B,"High-quality product 112, designed for performance and durability.",472,173.78,212.38
+PRD00113,Product 113,Motorcycles 897,1:50,Vendor C,"High-quality product 113, designed for performance and durability.",640,383.85,505.96
+PRD00114,Product 114,Ships 607,1:18,Vendor A,"High-quality product 114, designed for performance and durability.",665,710.79,1047.06
+PRD00115,Product 115,Planes 699,1:24,Vendor B,"High-quality product 115, designed for performance and durability.",454,352.80,490.11
+PRD00116,Product 116,Trains 31,1:50,Vendor C,"High-quality product 116, designed for performance and durability.",61,742.69,953.32
+PRD00117,Product 117,Motorcycles 395,1:18,Vendor A,"High-quality product 117, designed for performance and durability.",808,23.28,34.86
+PRD00118,Product 118,Motorcycles 769,1:24,Vendor B,"High-quality product 118, designed for performance and durability.",981,686.07,1001.34
+PRD00119,Product 119,Motorcycles 585,1:50,Vendor C,"High-quality product 119, designed for performance and durability.",126,579.49,826.59
+PRD00120,Product 120,Planes 578,1:18,Vendor A,"High-quality product 120, designed for performance and durability.",228,281.70,389.21
+PRD00121,Product 121,Classic Cars 335,1:24,Vendor B,"High-quality product 121, designed for performance and durability.",710,323.79,395.26
+PRD00122,Product 122,Ships 18,1:50,Vendor C,"High-quality product 122, designed for performance and durability.",417,777.29,1116.16
+PRD00123,Product 123,Trains 796,1:18,Vendor A,"High-quality product 123, designed for performance and durability.",577,512.23,633.14
+PRD00124,Product 124,Ships 59,1:24,Vendor B,"High-quality product 124, designed for performance and durability.",603,687.66,892.80
+PRD00125,Product 125,Ships 28,1:50,Vendor C,"High-quality product 125, designed for performance and durability.",833,192.68,246.42
+PRD00126,Product 126,Classic Cars 562,1:18,Vendor A,"High-quality product 126, designed for performance and durability.",144,985.48,1239.27
+PRD00127,Product 127,Motorcycles 866,1:24,Vendor B,"High-quality product 127, designed for performance and durability.",60,729.81,904.44
+PRD00128,Product 128,Motorcycles 693,1:50,Vendor C,"High-quality product 128, designed for performance and durability.",821,68.19,92.42
+PRD00129,Product 129,Classic Cars 56,1:18,Vendor A,"High-quality product 129, designed for performance and durability.",608,417.87,553.41
+PRD00130,Product 130,Motorcycles 142,1:24,Vendor B,"High-quality product 130, designed for performance and durability.",979,330.53,429.89
+PRD00131,Product 131,Ships 340,1:50,Vendor C,"High-quality product 131, designed for performance and durability.",720,280.51,415.13
+PRD00132,Product 132,Motorcycles 324,1:18,Vendor A,"High-quality product 132, designed for performance and durability.",512,914.84,1215.55
+PRD00133,Product 133,Ships 647,1:24,Vendor B,"High-quality product 133, designed for performance and durability.",870,574.74,721.91
+PRD00134,Product 134,Planes 442,1:50,Vendor C,"High-quality product 134, designed for performance and durability.",410,700.45,850.56
+PRD00135,Product 135,Trains 786,1:18,Vendor A,"High-quality product 135, designed for performance and durability.",225,904.63,1155.31
+PRD00136,Product 136,Motorcycles 975,1:24,Vendor B,"High-quality product 136, designed for performance and durability.",146,997.14,1353.49
+PRD00137,Product 137,Trains 730,1:50,Vendor C,"High-quality product 137, designed for performance and durability.",494,18.09,26.68
+PRD00138,Product 138,Trains 786,1:18,Vendor A,"High-quality product 138, designed for performance and durability.",610,775.54,1092.24
+PRD00139,Product 139,Ships 924,1:24,Vendor B,"High-quality product 139, designed for performance and durability.",910,336.16,441.60
+PRD00140,Product 140,Classic Cars 13,1:50,Vendor C,"High-quality product 140, designed for performance and durability.",738,183.77,240.58
+PRD00141,Product 141,Classic Cars 72,1:18,Vendor A,"High-quality product 141, designed for performance and durability.",105,780.53,970.88
+PRD00142,Product 142,Ships 163,1:24,Vendor B,"High-quality product 142, designed for performance and durability.",276,138.68,167.71
+PRD00143,Product 143,Ships 348,1:50,Vendor C,"High-quality product 143, designed for performance and durability.",802,274.17,379.49
+PRD00144,Product 144,Classic Cars 777,1:18,Vendor A,"High-quality product 144, designed for performance and durability.",378,839.75,1187.62
+PRD00145,Product 145,Classic Cars 810,1:24,Vendor B,"High-quality product 145, designed for performance and durability.",389,202.07,286.17
+PRD00146,Product 146,Ships 607,1:50,Vendor C,"High-quality product 146, designed for performance and durability.",795,497.55,654.47
+PRD00147,Product 147,Ships 147,1:18,Vendor A,"High-quality product 147, designed for performance and durability.",281,535.66,695.53
+PRD00148,Product 148,Ships 638,1:24,Vendor B,"High-quality product 148, designed for performance and durability.",676,48.33,68.79
+PRD00149,Product 149,Planes 627,1:50,Vendor C,"High-quality product 149, designed for performance and durability.",966,275.13,356.42
+PRD00150,Product 150,Planes 385,1:18,Vendor A,"High-quality product 150, designed for performance and durability.",704,185.42,252.12
+PRD00151,Product 151,Motorcycles 263,1:24,Vendor B,"High-quality product 151, designed for performance and durability.",998,854.78,1168.72
+PRD00152,Product 152,Ships 155,1:50,Vendor C,"High-quality product 152, designed for performance and durability.",814,494.21,671.22
+PRD00153,Product 153,Ships 277,1:18,Vendor A,"High-quality product 153, designed for performance and durability.",158,195.83,246.73
+PRD00154,Product 154,Motorcycles 211,1:24,Vendor B,"High-quality product 154, designed for performance and durability.",526,744.63,1071.48
+PRD00155,Product 155,Motorcycles 496,1:50,Vendor C,"High-quality product 155, designed for performance and durability.",759,795.60,963.90
+PRD00156,Product 156,Ships 844,1:18,Vendor A,"High-quality product 156, designed for performance and durability.",123,854.53,1037.63
+PRD00157,Product 157,Classic Cars 681,1:24,Vendor B,"High-quality product 157, designed for performance and durability.",132,504.29,751.01
+PRD00158,Product 158,Trains 24,1:50,Vendor C,"High-quality product 158, designed for performance and durability.",477,57.15,83.19
+PRD00159,Product 159,Trains 621,1:18,Vendor A,"High-quality product 159, designed for performance and durability.",332,935.63,1171.43
+PRD00160,Product 160,Trains 52,1:24,Vendor B,"High-quality product 160, designed for performance and durability.",529,680.27,1015.45
+PRD00161,Product 161,Classic Cars 72,1:50,Vendor C,"High-quality product 161, designed for performance and durability.",360,361.13,454.63
+PRD00162,Product 162,Trains 782,1:18,Vendor A,"High-quality product 162, designed for performance and durability.",302,996.62,1491.32
+PRD00163,Product 163,Trains 804,1:24,Vendor B,"High-quality product 163, designed for performance and durability.",937,744.37,986.15
+PRD00164,Product 164,Trains 902,1:50,Vendor C,"High-quality product 164, designed for performance and durability.",517,903.89,1350.51
+PRD00165,Product 165,Ships 888,1:18,Vendor A,"High-quality product 165, designed for performance and durability.",289,277.73,345.52
+PRD00166,Product 166,Trains 573,1:24,Vendor B,"High-quality product 166, designed for performance and durability.",158,21.32,30.52
+PRD00167,Product 167,Trains 778,1:50,Vendor C,"High-quality product 167, designed for performance and durability.",976,693.14,982.22
+PRD00168,Product 168,Planes 255,1:18,Vendor A,"High-quality product 168, designed for performance and durability.",302,38.32,47.90
+PRD00169,Product 169,Ships 300,1:24,Vendor B,"High-quality product 169, designed for performance and durability.",342,222.88,279.46
+PRD00170,Product 170,Planes 982,1:50,Vendor C,"High-quality product 170, designed for performance and durability.",175,926.63,1138.89
+PRD00171,Product 171,Trains 603,1:18,Vendor A,"High-quality product 171, designed for performance and durability.",762,995.64,1443.81
+PRD00172,Product 172,Planes 775,1:24,Vendor B,"High-quality product 172, designed for performance and durability.",442,376.25,561.60
+PRD00173,Product 173,Motorcycles 186,1:50,Vendor C,"High-quality product 173, designed for performance and durability.",692,879.32,1210.31
+PRD00174,Product 174,Ships 971,1:18,Vendor A,"High-quality product 174, designed for performance and durability.",484,860.17,1066.94
+PRD00175,Product 175,Ships 277,1:24,Vendor B,"High-quality product 175, designed for performance and durability.",791,208.96,279.21
+PRD00176,Product 176,Motorcycles 393,1:50,Vendor C,"High-quality product 176, designed for performance and durability.",821,448.13,604.23
+PRD00177,Product 177,Classic Cars 364,1:18,Vendor A,"High-quality product 177, designed for performance and durability.",788,767.79,1036.25
+PRD00178,Product 178,Classic Cars 412,1:24,Vendor B,"High-quality product 178, designed for performance and durability.",555,220.42,326.95
+PRD00179,Product 179,Trains 871,1:50,Vendor C,"High-quality product 179, designed for performance and durability.",664,744.31,973.60
+PRD00180,Product 180,Motorcycles 996,1:18,Vendor A,"High-quality product 180, designed for performance and durability.",293,838.55,1208.65
+PRD00181,Product 181,Classic Cars 381,1:24,Vendor B,"High-quality product 181, designed for performance and durability.",349,34.50,44.74
+PRD00182,Product 182,Classic Cars 681,1:50,Vendor C,"High-quality product 182, designed for performance and durability.",183,416.63,523.19
+PRD00183,Product 183,Planes 8,1:18,Vendor A,"High-quality product 183, designed for performance and durability.",238,737.05,1017.45
+PRD00184,Product 184,Ships 591,1:24,Vendor B,"High-quality product 184, designed for performance and durability.",503,743.53,900.63
+PRD00185,Product 185,Trains 75,1:50,Vendor C,"High-quality product 185, designed for performance and durability.",807,573.75,766.24
+PRD00186,Product 186,Trains 600,1:18,Vendor A,"High-quality product 186, designed for performance and durability.",247,853.50,1249.18
+PRD00187,Product 187,Motorcycles 305,1:24,Vendor B,"High-quality product 187, designed for performance and durability.",54,764.01,1114.28
+PRD00188,Product 188,Classic Cars 527,1:50,Vendor C,"High-quality product 188, designed for performance and durability.",327,450.18,643.89
+PRD00189,Product 189,Planes 265,1:18,Vendor A,"High-quality product 189, designed for performance and durability.",440,353.74,482.08
+PRD00190,Product 190,Classic Cars 641,1:24,Vendor B,"High-quality product 190, designed for performance and durability.",790,766.92,1097.21
+PRD00191,Product 191,Classic Cars 454,1:50,Vendor C,"High-quality product 191, designed for performance and durability.",487,951.48,1267.56
+PRD00192,Product 192,Motorcycles 55,1:18,Vendor A,"High-quality product 192, designed for performance and durability.",300,657.52,958.58
+PRD00193,Product 193,Ships 707,1:24,Vendor B,"High-quality product 193, designed for performance and durability.",562,218.17,265.79
+PRD00194,Product 194,Trains 128,1:50,Vendor C,"High-quality product 194, designed for performance and durability.",700,893.69,1189.94
+PRD00195,Product 195,Classic Cars 558,1:18,Vendor A,"High-quality product 195, designed for performance and durability.",224,307.66,424.68
+PRD00196,Product 196,Trains 259,1:24,Vendor B,"High-quality product 196, designed for performance and durability.",226,463.19,643.95
+PRD00197,Product 197,Trains 941,1:50,Vendor C,"High-quality product 197, designed for performance and durability.",117,673.51,868.05
+PRD00198,Product 198,Trains 659,1:18,Vendor A,"High-quality product 198, designed for performance and durability.",769,495.80,603.11
+PRD00199,Product 199,Ships 844,1:24,Vendor B,"High-quality product 199, designed for performance and durability.",301,443.50,569.77
+PRD00200,Product 200,Ships 702,1:50,Vendor C,"High-quality product 200, designed for performance and durability.",61,473.50,688.63
+PRD00201,Product 201,Motorcycles 551,1:18,Vendor A,"High-quality product 201, designed for performance and durability.",461,540.98,764.02
+PRD00202,Product 202,Classic Cars 328,1:24,Vendor B,"High-quality product 202, designed for performance and durability.",70,642.54,788.82
+PRD00203,Product 203,Ships 588,1:50,Vendor C,"High-quality product 203, designed for performance and durability.",613,813.07,1163.85
+PRD00204,Product 204,Classic Cars 475,1:18,Vendor A,"High-quality product 204, designed for performance and durability.",689,898.36,1279.40
+PRD00205,Product 205,Classic Cars 368,1:24,Vendor B,"High-quality product 205, designed for performance and durability.",554,185.87,278.49
+PRD00206,Product 206,Motorcycles 119,1:50,Vendor C,"High-quality product 206, designed for performance and durability.",763,772.22,968.91
+PRD00207,Product 207,Classic Cars 821,1:18,Vendor A,"High-quality product 207, designed for performance and durability.",584,908.41,1145.42
+PRD00208,Product 208,Trains 628,1:24,Vendor B,"High-quality product 208, designed for performance and durability.",153,114.22,165.31
+PRD00209,Product 209,Planes 443,1:50,Vendor C,"High-quality product 209, designed for performance and durability.",200,490.14,698.15
+PRD00210,Product 210,Trains 88,1:18,Vendor A,"High-quality product 210, designed for performance and durability.",847,227.90,336.83
+PRD00211,Product 211,Classic Cars 503,1:24,Vendor B,"High-quality product 211, designed for performance and durability.",755,960.46,1374.10
+PRD00212,Product 212,Ships 611,1:50,Vendor C,"High-quality product 212, designed for performance and durability.",839,531.18,674.60
+PRD00213,Product 213,Classic Cars 675,1:18,Vendor A,"High-quality product 213, designed for performance and durability.",242,796.65,1168.12
+PRD00214,Product 214,Planes 35,1:24,Vendor B,"High-quality product 214, designed for performance and durability.",241,470.83,596.17
+PRD00215,Product 215,Classic Cars 650,1:50,Vendor C,"High-quality product 215, designed for performance and durability.",744,120.75,177.68
+PRD00216,Product 216,Planes 576,1:18,Vendor A,"High-quality product 216, designed for performance and durability.",468,450.38,671.77
+PRD00217,Product 217,Classic Cars 275,1:24,Vendor B,"High-quality product 217, designed for performance and durability.",983,941.29,1382.05
+PRD00218,Product 218,Motorcycles 159,1:50,Vendor C,"High-quality product 218, designed for performance and durability.",245,23.83,29.45
+PRD00219,Product 219,Ships 667,1:18,Vendor A,"High-quality product 219, designed for performance and durability.",494,777.81,1044.61
+PRD00220,Product 220,Motorcycles 136,1:24,Vendor B,"High-quality product 220, designed for performance and durability.",973,326.84,455.08
+PRD00221,Product 221,Motorcycles 439,1:50,Vendor C,"High-quality product 221, designed for performance and durability.",439,272.02,379.61
+PRD00222,Product 222,Planes 682,1:18,Vendor A,"High-quality product 222, designed for performance and durability.",589,995.56,1208.40
+PRD00223,Product 223,Trains 88,1:24,Vendor B,"High-quality product 223, designed for performance and durability.",469,129.39,178.09
+PRD00224,Product 224,Ships 594,1:50,Vendor C,"High-quality product 224, designed for performance and durability.",579,206.88,264.99
+PRD00225,Product 225,Classic Cars 198,1:18,Vendor A,"High-quality product 225, designed for performance and durability.",841,365.95,444.97
+PRD00226,Product 226,Classic Cars 744,1:24,Vendor B,"High-quality product 226, designed for performance and durability.",404,223.40,286.75
+PRD00227,Product 227,Motorcycles 455,1:50,Vendor C,"High-quality product 227, designed for performance and durability.",674,493.87,643.95
+PRD00228,Product 228,Trains 461,1:18,Vendor A,"High-quality product 228, designed for performance and durability.",327,921.71,1106.46
+PRD00229,Product 229,Trains 723,1:24,Vendor B,"High-quality product 229, designed for performance and durability.",184,714.47,860.01
+PRD00230,Product 230,Ships 649,1:50,Vendor C,"High-quality product 230, designed for performance and durability.",738,26.06,37.20
+PRD00231,Product 231,Trains 573,1:18,Vendor A,"High-quality product 231, designed for performance and durability.",719,167.69,245.55
+PRD00232,Product 232,Planes 838,1:24,Vendor B,"High-quality product 232, designed for performance and durability.",434,519.32,624.56
+PRD00233,Product 233,Trains 174,1:50,Vendor C,"High-quality product 233, designed for performance and durability.",641,107.69,144.61
+PRD00234,Product 234,Motorcycles 823,1:18,Vendor A,"High-quality product 234, designed for performance and durability.",802,588.75,777.66
+PRD00235,Product 235,Classic Cars 727,1:24,Vendor B,"High-quality product 235, designed for performance and durability.",942,110.90,163.40
+PRD00236,Product 236,Motorcycles 154,1:50,Vendor C,"High-quality product 236, designed for performance and durability.",396,246.10,325.00
+PRD00237,Product 237,Motorcycles 159,1:18,Vendor A,"High-quality product 237, designed for performance and durability.",491,896.93,1082.96
+PRD00238,Product 238,Motorcycles 221,1:24,Vendor B,"High-quality product 238, designed for performance and durability.",576,131.44,166.20
+PRD00239,Product 239,Ships 983,1:50,Vendor C,"High-quality product 239, designed for performance and durability.",120,803.19,1193.95
+PRD00240,Product 240,Planes 250,1:18,Vendor A,"High-quality product 240, designed for performance and durability.",535,221.66,314.24
+PRD00241,Product 241,Motorcycles 585,1:24,Vendor B,"High-quality product 241, designed for performance and durability.",621,787.86,989.79
+PRD00242,Product 242,Motorcycles 886,1:50,Vendor C,"High-quality product 242, designed for performance and durability.",479,229.08,287.64
+PRD00243,Product 243,Ships 254,1:18,Vendor A,"High-quality product 243, designed for performance and durability.",702,42.92,61.53
+PRD00244,Product 244,Trains 4,1:24,Vendor B,"High-quality product 244, designed for performance and durability.",812,957.51,1264.22
+PRD00245,Product 245,Planes 864,1:50,Vendor C,"High-quality product 245, designed for performance and durability.",67,42.54,61.12
+PRD00246,Product 246,Planes 148,1:18,Vendor A,"High-quality product 246, designed for performance and durability.",111,475.49,703.94
+PRD00247,Product 247,Classic Cars 191,1:24,Vendor B,"High-quality product 247, designed for performance and durability.",155,76.94,103.75
+PRD00248,Product 248,Trains 704,1:50,Vendor C,"High-quality product 248, designed for performance and durability.",241,342.27,498.59
+PRD00249,Product 249,Ships 458,1:18,Vendor A,"High-quality product 249, designed for performance and durability.",118,460.47,578.16
+PRD00250,Product 250,Classic Cars 716,1:24,Vendor B,"High-quality product 250, designed for performance and durability.",781,12.49,17.86
+PRD00251,Product 251,Ships 245,1:50,Vendor C,"High-quality product 251, designed for performance and durability.",994,985.09,1409.02
+PRD00252,Product 252,Ships 129,1:18,Vendor A,"High-quality product 252, designed for performance and durability.",918,513.77,700.79
+PRD00253,Product 253,Planes 50,1:24,Vendor B,"High-quality product 253, designed for performance and durability.",509,344.40,439.22
+PRD00254,Product 254,Classic Cars 615,1:50,Vendor C,"High-quality product 254, designed for performance and durability.",766,856.22,1037.35
+PRD00255,Product 255,Ships 591,1:18,Vendor A,"High-quality product 255, designed for performance and durability.",164,172.13,247.80
+PRD00256,Product 256,Classic Cars 816,1:24,Vendor B,"High-quality product 256, designed for performance and durability.",657,139.22,201.28
+PRD00257,Product 257,Motorcycles 929,1:50,Vendor C,"High-quality product 257, designed for performance and durability.",687,877.48,1269.56
+PRD00258,Product 258,Planes 627,1:18,Vendor A,"High-quality product 258, designed for performance and durability.",875,33.81,45.48
+PRD00259,Product 259,Ships 888,1:24,Vendor B,"High-quality product 259, designed for performance and durability.",862,282.32,369.51
+PRD00260,Product 260,Trains 537,1:50,Vendor C,"High-quality product 260, designed for performance and durability.",160,421.03,509.43
+PRD00261,Product 261,Classic Cars 934,1:18,Vendor A,"High-quality product 261, designed for performance and durability.",767,170.04,236.60
+PRD00262,Product 262,Trains 567,1:24,Vendor B,"High-quality product 262, designed for performance and durability.",672,39.02,56.68
+PRD00263,Product 263,Ships 522,1:50,Vendor C,"High-quality product 263, designed for performance and durability.",580,175.71,258.84
+PRD00264,Product 264,Classic Cars 261,1:18,Vendor A,"High-quality product 264, designed for performance and durability.",317,534.05,711.52
+PRD00265,Product 265,Classic Cars 766,1:24,Vendor B,"High-quality product 265, designed for performance and durability.",812,625.35,755.68
+PRD00266,Product 266,Planes 268,1:50,Vendor C,"High-quality product 266, designed for performance and durability.",862,896.02,1288.38
+PRD00267,Product 267,Classic Cars 595,1:18,Vendor A,"High-quality product 267, designed for performance and durability.",438,692.48,895.91
+PRD00268,Product 268,Ships 645,1:24,Vendor B,"High-quality product 268, designed for performance and durability.",91,972.80,1396.08
+PRD00269,Product 269,Ships 520,1:50,Vendor C,"High-quality product 269, designed for performance and durability.",520,663.01,801.78
+PRD00270,Product 270,Motorcycles 967,1:18,Vendor A,"High-quality product 270, designed for performance and durability.",428,884.14,1317.70
+PRD00271,Product 271,Motorcycles 269,1:24,Vendor B,"High-quality product 271, designed for performance and durability.",166,101.58,130.60
+PRD00272,Product 272,Classic Cars 432,1:50,Vendor C,"High-quality product 272, designed for performance and durability.",918,108.53,135.71
+PRD00273,Product 273,Ships 962,1:18,Vendor A,"High-quality product 273, designed for performance and durability.",493,880.10,1249.51
+PRD00274,Product 274,Planes 426,1:24,Vendor B,"High-quality product 274, designed for performance and durability.",69,90.99,131.56
+PRD00275,Product 275,Ships 925,1:50,Vendor C,"High-quality product 275, designed for performance and durability.",399,166.11,203.77
+PRD00276,Product 276,Trains 584,1:18,Vendor A,"High-quality product 276, designed for performance and durability.",912,740.71,1063.48
+PRD00277,Product 277,Classic Cars 668,1:24,Vendor B,"High-quality product 277, designed for performance and durability.",779,144.17,208.14
+PRD00278,Product 278,Trains 420,1:50,Vendor C,"High-quality product 278, designed for performance and durability.",358,328.16,489.88
+PRD00279,Product 279,Trains 294,1:18,Vendor A,"High-quality product 279, designed for performance and durability.",154,498.46,743.36
+PRD00280,Product 280,Ships 591,1:24,Vendor B,"High-quality product 280, designed for performance and durability.",93,302.14,394.06
+PRD00281,Product 281,Trains 425,1:50,Vendor C,"High-quality product 281, designed for performance and durability.",252,31.75,41.00
+PRD00282,Product 282,Classic Cars 318,1:18,Vendor A,"High-quality product 282, designed for performance and durability.",77,301.88,437.30
+PRD00283,Product 283,Ships 696,1:24,Vendor B,"High-quality product 283, designed for performance and durability.",233,674.26,877.28
+PRD00284,Product 284,Planes 672,1:50,Vendor C,"High-quality product 284, designed for performance and durability.",231,622.80,900.80
+PRD00285,Product 285,Motorcycles 798,1:18,Vendor A,"High-quality product 285, designed for performance and durability.",547,461.84,680.21
+PRD00286,Product 286,Classic Cars 582,1:24,Vendor B,"High-quality product 286, designed for performance and durability.",496,556.72,703.37
+PRD00287,Product 287,Ships 925,1:50,Vendor C,"High-quality product 287, designed for performance and durability.",857,907.40,1129.96
+PRD00288,Product 288,Ships 632,1:18,Vendor A,"High-quality product 288, designed for performance and durability.",134,952.76,1254.96
+PRD00289,Product 289,Motorcycles 750,1:24,Vendor B,"High-quality product 289, designed for performance and durability.",639,770.86,1153.17
+PRD00290,Product 290,Planes 47,1:50,Vendor C,"High-quality product 290, designed for performance and durability.",464,342.44,459.49
+PRD00291,Product 291,Motorcycles 101,1:18,Vendor A,"High-quality product 291, designed for performance and durability.",589,875.20,1151.63
+PRD00292,Product 292,Ships 790,1:24,Vendor B,"High-quality product 292, designed for performance and durability.",131,534.98,717.60
+PRD00293,Product 293,Planes 944,1:50,Vendor C,"High-quality product 293, designed for performance and durability.",529,684.91,1015.64
+PRD00294,Product 294,Motorcycles 349,1:18,Vendor A,"High-quality product 294, designed for performance and durability.",52,829.08,1081.73
+PRD00295,Product 295,Classic Cars 164,1:24,Vendor B,"High-quality product 295, designed for performance and durability.",338,691.51,973.79
+PRD00296,Product 296,Planes 637,1:50,Vendor C,"High-quality product 296, designed for performance and durability.",897,134.16,173.29
+PRD00297,Product 297,Classic Cars 63,1:18,Vendor A,"High-quality product 297, designed for performance and durability.",167,892.58,1266.80
+PRD00298,Product 298,Ships 264,1:24,Vendor B,"High-quality product 298, designed for performance and durability.",428,69.72,85.20
+PRD00299,Product 299,Trains 806,1:50,Vendor C,"High-quality product 299, designed for performance and durability.",741,320.85,420.13
+PRD00300,Product 300,Ships 215,1:18,Vendor A,"High-quality product 300, designed for performance and durability.",94,810.84,976.85
+PRD00301,Product 301,Ships 649,1:24,Vendor B,"High-quality product 301, designed for performance and durability.",202,917.94,1250.88
+PRD00302,Product 302,Planes 576,1:50,Vendor C,"High-quality product 302, designed for performance and durability.",55,81.97,107.44
+PRD00303,Product 303,Planes 47,1:18,Vendor A,"High-quality product 303, designed for performance and durability.",549,527.88,672.32
+PRD00304,Product 304,Ships 538,1:24,Vendor B,"High-quality product 304, designed for performance and durability.",716,793.91,1163.97
+PRD00305,Product 305,Trains 704,1:50,Vendor C,"High-quality product 305, designed for performance and durability.",364,82.22,108.10
+PRD00306,Product 306,Ships 596,1:18,Vendor A,"High-quality product 306, designed for performance and durability.",910,401.76,543.21
+PRD00307,Product 307,Trains 425,1:24,Vendor B,"High-quality product 307, designed for performance and durability.",517,30.43,37.22
+PRD00308,Product 308,Ships 65,1:50,Vendor C,"High-quality product 308, designed for performance and durability.",883,601.46,784.91
+PRD00309,Product 309,Ships 763,1:18,Vendor A,"High-quality product 309, designed for performance and durability.",636,28.78,35.74
+PRD00310,Product 310,Trains 601,1:24,Vendor B,"High-quality product 310, designed for performance and durability.",443,807.76,1032.83
+PRD00311,Product 311,Motorcycles 631,1:50,Vendor C,"High-quality product 311, designed for performance and durability.",444,248.23,367.94
+PRD00312,Product 312,Planes 870,1:18,Vendor A,"High-quality product 312, designed for performance and durability.",494,718.46,978.23
+PRD00313,Product 313,Ships 61,1:24,Vendor B,"High-quality product 313, designed for performance and durability.",569,656.04,913.59
+PRD00314,Product 314,Ships 86,1:50,Vendor C,"High-quality product 314, designed for performance and durability.",747,54.10,77.52
+PRD00315,Product 315,Ships 131,1:18,Vendor A,"High-quality product 315, designed for performance and durability.",224,642.78,784.20
+PRD00316,Product 316,Planes 365,1:24,Vendor B,"High-quality product 316, designed for performance and durability.",640,423.88,626.54
+PRD00317,Product 317,Planes 115,1:50,Vendor C,"High-quality product 317, designed for performance and durability.",717,370.46,523.72
+PRD00318,Product 318,Motorcycles 189,1:18,Vendor A,"High-quality product 318, designed for performance and durability.",317,774.34,981.64
+PRD00319,Product 319,Trains 289,1:24,Vendor B,"High-quality product 319, designed for performance and durability.",578,907.09,1249.00
+PRD00320,Product 320,Motorcycles 548,1:50,Vendor C,"High-quality product 320, designed for performance and durability.",626,453.69,662.98
+PRD00321,Product 321,Motorcycles 548,1:18,Vendor A,"High-quality product 321, designed for performance and durability.",240,970.17,1231.68
+PRD00322,Product 322,Motorcycles 978,1:24,Vendor B,"High-quality product 322, designed for performance and durability.",419,479.27,601.88
+PRD00323,Product 323,Classic Cars 58,1:50,Vendor C,"High-quality product 323, designed for performance and durability.",406,508.01,652.91
+PRD00324,Product 324,Trains 990,1:18,Vendor A,"High-quality product 324, designed for performance and durability.",869,440.75,643.93
+PRD00325,Product 325,Motorcycles 772,1:24,Vendor B,"High-quality product 325, designed for performance and durability.",289,372.56,499.91
+PRD00326,Product 326,Classic Cars 883,1:50,Vendor C,"High-quality product 326, designed for performance and durability.",687,979.81,1384.97
+PRD00327,Product 327,Motorcycles 372,1:18,Vendor A,"High-quality product 327, designed for performance and durability.",856,542.52,672.75
+PRD00328,Product 328,Trains 782,1:24,Vendor B,"High-quality product 328, designed for performance and durability.",541,829.99,1216.74
+PRD00329,Product 329,Planes 242,1:50,Vendor C,"High-quality product 329, designed for performance and durability.",126,152.42,227.47
+PRD00330,Product 330,Planes 115,1:18,Vendor A,"High-quality product 330, designed for performance and durability.",854,654.35,834.49
+PRD00331,Product 331,Trains 420,1:24,Vendor B,"High-quality product 331, designed for performance and durability.",990,694.80,842.69
+PRD00332,Product 332,Ships 270,1:50,Vendor C,"High-quality product 332, designed for performance and durability.",250,263.24,348.26
+PRD00333,Product 333,Planes 244,1:18,Vendor A,"High-quality product 333, designed for performance and durability.",899,268.51,390.36
+PRD00334,Product 334,Ships 254,1:24,Vendor B,"High-quality product 334, designed for performance and durability.",765,247.58,337.84
+PRD00335,Product 335,Ships 999,1:50,Vendor C,"High-quality product 335, designed for performance and durability.",407,220.78,308.44
+PRD00336,Product 336,Ships 792,1:18,Vendor A,"High-quality product 336, designed for performance and durability.",169,512.18,649.71
+PRD00337,Product 337,Planes 892,1:24,Vendor B,"High-quality product 337, designed for performance and durability.",309,426.75,536.51
+PRD00338,Product 338,Classic Cars 518,1:50,Vendor C,"High-quality product 338, designed for performance and durability.",725,578.74,852.33
+PRD00339,Product 339,Motorcycles 136,1:18,Vendor A,"High-quality product 339, designed for performance and durability.",794,855.06,1059.72
+PRD00340,Product 340,Trains 584,1:24,Vendor B,"High-quality product 340, designed for performance and durability.",739,207.99,294.78
+PRD00341,Product 341,Classic Cars 412,1:50,Vendor C,"High-quality product 341, designed for performance and durability.",916,659.83,845.01
+PRD00342,Product 342,Ships 997,1:18,Vendor A,"High-quality product 342, designed for performance and durability.",745,281.41,403.67
+PRD00343,Product 343,Planes 599,1:24,Vendor B,"High-quality product 343, designed for performance and durability.",429,388.16,576.96
+PRD00344,Product 344,Planes 891,1:50,Vendor C,"High-quality product 344, designed for performance and durability.",97,582.57,867.20
+PRD00345,Product 345,Trains 414,1:18,Vendor A,"High-quality product 345, designed for performance and durability.",336,911.38,1144.12
+PRD00346,Product 346,Ships 458,1:24,Vendor B,"High-quality product 346, designed for performance and durability.",84,68.67,91.93
+PRD00347,Product 347,Ships 554,1:50,Vendor C,"High-quality product 347, designed for performance and durability.",381,534.01,780.89
+PRD00348,Product 348,Motorcycles 685,1:18,Vendor A,"High-quality product 348, designed for performance and durability.",977,842.84,1248.86
+PRD00349,Product 349,Planes 255,1:24,Vendor B,"High-quality product 349, designed for performance and durability.",716,652.10,799.48
+PRD00350,Product 350,Ships 37,1:50,Vendor C,"High-quality product 350, designed for performance and durability.",291,166.05,207.06
+PRD00351,Product 351,Motorcycles 878,1:18,Vendor A,"High-quality product 351, designed for performance and durability.",184,87.86,109.50
+PRD00352,Product 352,Ships 196,1:24,Vendor B,"High-quality product 352, designed for performance and durability.",564,402.47,603.30
+PRD00353,Product 353,Classic Cars 352,1:50,Vendor C,"High-quality product 353, designed for performance and durability.",450,315.32,443.77
+PRD00354,Product 354,Ships 462,1:18,Vendor A,"High-quality product 354, designed for performance and durability.",991,518.17,749.44
+PRD00355,Product 355,Classic Cars 144,1:24,Vendor B,"High-quality product 355, designed for performance and durability.",776,598.86,766.14
+PRD00356,Product 356,Trains 54,1:50,Vendor C,"High-quality product 356, designed for performance and durability.",452,35.75,47.23
+PRD00357,Product 357,Planes 870,1:18,Vendor A,"High-quality product 357, designed for performance and durability.",743,717.63,871.38
+PRD00358,Product 358,Classic Cars 934,1:24,Vendor B,"High-quality product 358, designed for performance and durability.",371,721.78,991.55
+PRD00359,Product 359,Ships 839,1:50,Vendor C,"High-quality product 359, designed for performance and durability.",671,420.30,605.22
+PRD00360,Product 360,Planes 247,1:18,Vendor A,"High-quality product 360, designed for performance and durability.",732,177.10,250.99
+PRD00361,Product 361,Classic Cars 262,1:24,Vendor B,"High-quality product 361, designed for performance and durability.",731,754.50,987.46
+PRD00362,Product 362,Planes 38,1:50,Vendor C,"High-quality product 362, designed for performance and durability.",729,228.10,282.89
+PRD00363,Product 363,Motorcycles 284,1:18,Vendor A,"High-quality product 363, designed for performance and durability.",629,613.34,736.57
+PRD00364,Product 364,Classic Cars 641,1:24,Vendor B,"High-quality product 364, designed for performance and durability.",223,265.95,375.59
+PRD00365,Product 365,Motorcycles 904,1:50,Vendor C,"High-quality product 365, designed for performance and durability.",570,68.35,101.86
+PRD00366,Product 366,Ships 105,1:18,Vendor A,"High-quality product 366, designed for performance and durability.",80,74.31,96.35
+PRD00367,Product 367,Motorcycles 852,1:24,Vendor B,"High-quality product 367, designed for performance and durability.",409,302.24,396.25
+PRD00368,Product 368,Planes 862,1:50,Vendor C,"High-quality product 368, designed for performance and durability.",103,763.86,1087.85
+PRD00369,Product 369,Ships 270,1:18,Vendor A,"High-quality product 369, designed for performance and durability.",289,477.08,605.77
+PRD00370,Product 370,Planes 150,1:24,Vendor B,"High-quality product 370, designed for performance and durability.",412,618.15,759.56
+PRD00371,Product 371,Motorcycles 859,1:50,Vendor C,"High-quality product 371, designed for performance and durability.",186,91.05,109.71
+PRD00372,Product 372,Planes 497,1:18,Vendor A,"High-quality product 372, designed for performance and durability.",469,30.04,40.63
+PRD00373,Product 373,Ships 435,1:24,Vendor B,"High-quality product 373, designed for performance and durability.",517,972.33,1260.43
+PRD00374,Product 374,Classic Cars 42,1:50,Vendor C,"High-quality product 374, designed for performance and durability.",162,220.94,303.95
+PRD00375,Product 375,Trains 622,1:18,Vendor A,"High-quality product 375, designed for performance and durability.",181,401.95,521.42
+PRD00376,Product 376,Ships 143,1:24,Vendor B,"High-quality product 376, designed for performance and durability.",929,247.69,325.97
+PRD00377,Product 377,Classic Cars 698,1:50,Vendor C,"High-quality product 377, designed for performance and durability.",255,75.95,113.86
+PRD00378,Product 378,Planes 8,1:18,Vendor A,"High-quality product 378, designed for performance and durability.",541,936.41,1209.32
+PRD00379,Product 379,Classic Cars 475,1:24,Vendor B,"High-quality product 379, designed for performance and durability.",390,293.75,428.62
+PRD00380,Product 380,Classic Cars 207,1:50,Vendor C,"High-quality product 380, designed for performance and durability.",299,824.23,1002.64
+PRD00381,Product 381,Planes 672,1:18,Vendor A,"High-quality product 381, designed for performance and durability.",788,756.00,911.48
+PRD00382,Product 382,Trains 565,1:24,Vendor B,"High-quality product 382, designed for performance and durability.",949,229.99,337.58
+PRD00383,Product 383,Ships 260,1:50,Vendor C,"High-quality product 383, designed for performance and durability.",352,459.06,668.44
+PRD00384,Product 384,Planes 701,1:18,Vendor A,"High-quality product 384, designed for performance and durability.",179,889.88,1122.93
+PRD00385,Product 385,Planes 271,1:24,Vendor B,"High-quality product 385, designed for performance and durability.",619,30.07,39.14
+PRD00386,Product 386,Ships 358,1:50,Vendor C,"High-quality product 386, designed for performance and durability.",994,172.06,212.73
+PRD00387,Product 387,Ships 736,1:18,Vendor A,"High-quality product 387, designed for performance and durability.",883,413.08,581.65
+PRD00388,Product 388,Planes 502,1:24,Vendor B,"High-quality product 388, designed for performance and durability.",342,646.12,926.39
+PRD00389,Product 389,Classic Cars 817,1:50,Vendor C,"High-quality product 389, designed for performance and durability.",392,188.74,274.34
+PRD00390,Product 390,Trains 330,1:18,Vendor A,"High-quality product 390, designed for performance and durability.",650,13.39,19.84
+PRD00391,Product 391,Classic Cars 454,1:24,Vendor B,"High-quality product 391, designed for performance and durability.",72,518.51,685.86
+PRD00392,Product 392,Trains 831,1:50,Vendor C,"High-quality product 392, designed for performance and durability.",632,215.62,288.33
+PRD00393,Product 393,Ships 509,1:18,Vendor A,"High-quality product 393, designed for performance and durability.",328,749.34,1053.31
+PRD00394,Product 394,Planes 109,1:24,Vendor B,"High-quality product 394, designed for performance and durability.",498,838.01,1066.42
+PRD00395,Product 395,Ships 257,1:50,Vendor C,"High-quality product 395, designed for performance and durability.",758,407.57,593.48
+PRD00396,Product 396,Motorcycles 223,1:18,Vendor A,"High-quality product 396, designed for performance and durability.",606,781.23,1059.62
+PRD00397,Product 397,Trains 414,1:24,Vendor B,"High-quality product 397, designed for performance and durability.",557,298.50,447.62
+PRD00398,Product 398,Classic Cars 518,1:50,Vendor C,"High-quality product 398, designed for performance and durability.",121,182.12,253.05
+PRD00399,Product 399,Classic Cars 225,1:18,Vendor A,"High-quality product 399, designed for performance and durability.",616,453.21,630.77
+PRD00400,Product 400,Motorcycles 496,1:24,Vendor B,"High-quality product 400, designed for performance and durability.",827,267.87,323.03
+PRD00401,Product 401,Motorcycles 55,1:50,Vendor C,"High-quality product 401, designed for performance and durability.",846,579.98,766.03
+PRD00402,Product 402,Motorcycles 221,1:18,Vendor A,"High-quality product 402, designed for performance and durability.",864,425.69,591.68
+PRD00403,Product 403,Ships 591,1:24,Vendor B,"High-quality product 403, designed for performance and durability.",807,199.95,255.26
+PRD00404,Product 404,Planes 490,1:50,Vendor C,"High-quality product 404, designed for performance and durability.",153,545.45,761.18
+PRD00405,Product 405,Motorcycles 29,1:18,Vendor A,"High-quality product 405, designed for performance and durability.",914,974.49,1257.41
+PRD00406,Product 406,Motorcycles 750,1:24,Vendor B,"High-quality product 406, designed for performance and durability.",983,542.82,729.87
+PRD00407,Product 407,Motorcycles 324,1:50,Vendor C,"High-quality product 407, designed for performance and durability.",591,727.44,1064.95
+PRD00408,Product 408,Motorcycles 67,1:18,Vendor A,"High-quality product 408, designed for performance and durability.",583,781.11,1090.62
+PRD00409,Product 409,Classic Cars 510,1:24,Vendor B,"High-quality product 409, designed for performance and durability.",929,858.68,1277.65
+PRD00410,Product 410,Planes 422,1:50,Vendor C,"High-quality product 410, designed for performance and durability.",812,94.89,113.97
+PRD00411,Product 411,Planes 239,1:18,Vendor A,"High-quality product 411, designed for performance and durability.",638,545.41,799.53
+PRD00412,Product 412,Trains 137,1:24,Vendor B,"High-quality product 412, designed for performance and durability.",861,626.81,848.61
+PRD00413,Product 413,Motorcycles 101,1:50,Vendor C,"High-quality product 413, designed for performance and durability.",230,646.97,876.81
+PRD00414,Product 414,Ships 86,1:18,Vendor A,"High-quality product 414, designed for performance and durability.",277,593.92,859.56
+PRD00415,Product 415,Ships 326,1:24,Vendor B,"High-quality product 415, designed for performance and durability.",409,696.45,903.66
+PRD00416,Product 416,Ships 654,1:50,Vendor C,"High-quality product 416, designed for performance and durability.",139,638.04,920.18
+PRD00417,Product 417,Classic Cars 545,1:18,Vendor A,"High-quality product 417, designed for performance and durability.",904,431.20,556.21
+PRD00418,Product 418,Ships 918,1:24,Vendor B,"High-quality product 418, designed for performance and durability.",308,407.72,537.10
+PRD00419,Product 419,Trains 84,1:50,Vendor C,"High-quality product 419, designed for performance and durability.",862,583.91,767.19
+PRD00420,Product 420,Trains 534,1:18,Vendor A,"High-quality product 420, designed for performance and durability.",149,461.93,555.83
+PRD00421,Product 421,Classic Cars 563,1:24,Vendor B,"High-quality product 421, designed for performance and durability.",355,651.80,845.59
+PRD00422,Product 422,Ships 918,1:50,Vendor C,"High-quality product 422, designed for performance and durability.",726,792.55,1003.60
+PRD00423,Product 423,Classic Cars 525,1:18,Vendor A,"High-quality product 423, designed for performance and durability.",915,442.00,629.39
+PRD00424,Product 424,Planes 555,1:24,Vendor B,"High-quality product 424, designed for performance and durability.",930,278.84,398.75
+PRD00425,Product 425,Ships 571,1:50,Vendor C,"High-quality product 425, designed for performance and durability.",474,112.36,137.04
+PRD00426,Product 426,Ships 989,1:18,Vendor A,"High-quality product 426, designed for performance and durability.",470,805.73,1047.43
+PRD00427,Product 427,Motorcycles 639,1:24,Vendor B,"High-quality product 427, designed for performance and durability.",302,443.19,554.40
+PRD00428,Product 428,Trains 533,1:50,Vendor C,"High-quality product 428, designed for performance and durability.",88,212.39,268.98
+PRD00429,Product 429,Ships 453,1:18,Vendor A,"High-quality product 429, designed for performance and durability.",945,58.14,86.49
+PRD00430,Product 430,Ships 907,1:24,Vendor B,"High-quality product 430, designed for performance and durability.",94,839.24,1203.90
+PRD00431,Product 431,Classic Cars 564,1:50,Vendor C,"High-quality product 431, designed for performance and durability.",693,751.51,1057.03
+PRD00432,Product 432,Motorcycles 46,1:18,Vendor A,"High-quality product 432, designed for performance and durability.",579,505.37,744.15
+PRD00433,Product 433,Ships 531,1:24,Vendor B,"High-quality product 433, designed for performance and durability.",226,831.75,1167.43
+PRD00434,Product 434,Motorcycles 233,1:50,Vendor C,"High-quality product 434, designed for performance and durability.",202,11.31,13.96
+PRD00435,Product 435,Trains 177,1:18,Vendor A,"High-quality product 435, designed for performance and durability.",989,912.03,1303.72
+PRD00436,Product 436,Trains 267,1:24,Vendor B,"High-quality product 436, designed for performance and durability.",337,272.03,339.35
+PRD00437,Product 437,Trains 447,1:50,Vendor C,"High-quality product 437, designed for performance and durability.",627,906.15,1354.20
+PRD00438,Product 438,Motorcycles 221,1:18,Vendor A,"High-quality product 438, designed for performance and durability.",886,618.69,910.25
+PRD00439,Product 439,Motorcycles 360,1:24,Vendor B,"High-quality product 439, designed for performance and durability.",642,47.24,59.66
+PRD00440,Product 440,Motorcycles 493,1:50,Vendor C,"High-quality product 440, designed for performance and durability.",628,739.11,923.54
+PRD00441,Product 441,Ships 350,1:18,Vendor A,"High-quality product 441, designed for performance and durability.",365,254.82,356.64
+PRD00442,Product 442,Trains 915,1:24,Vendor B,"High-quality product 442, designed for performance and durability.",889,69.90,94.43
+PRD00443,Product 443,Ships 822,1:50,Vendor C,"High-quality product 443, designed for performance and durability.",542,897.20,1171.45
+PRD00444,Product 444,Ships 531,1:18,Vendor A,"High-quality product 444, designed for performance and durability.",402,698.89,862.20
+PRD00445,Product 445,Ships 740,1:24,Vendor B,"High-quality product 445, designed for performance and durability.",633,583.15,858.72
+PRD00446,Product 446,Trains 3,1:50,Vendor C,"High-quality product 446, designed for performance and durability.",532,89.51,127.05
+PRD00447,Product 447,Classic Cars 144,1:18,Vendor A,"High-quality product 447, designed for performance and durability.",210,753.55,1103.09
+PRD00448,Product 448,Planes 117,1:24,Vendor B,"High-quality product 448, designed for performance and durability.",765,413.80,592.31
+PRD00449,Product 449,Classic Cars 182,1:50,Vendor C,"High-quality product 449, designed for performance and durability.",931,131.85,171.49
+PRD00450,Product 450,Ships 743,1:18,Vendor A,"High-quality product 450, designed for performance and durability.",308,241.05,315.82
+PRD00451,Product 451,Motorcycles 10,1:24,Vendor B,"High-quality product 451, designed for performance and durability.",996,531.06,662.20
+PRD00452,Product 452,Classic Cars 850,1:50,Vendor C,"High-quality product 452, designed for performance and durability.",119,785.36,1141.85
+PRD00453,Product 453,Classic Cars 625,1:18,Vendor A,"High-quality product 453, designed for performance and durability.",990,709.28,970.23
+PRD00454,Product 454,Trains 872,1:24,Vendor B,"High-quality product 454, designed for performance and durability.",311,638.51,785.03
+PRD00455,Product 455,Motorcycles 581,1:50,Vendor C,"High-quality product 455, designed for performance and durability.",81,933.81,1326.87
+PRD00456,Product 456,Ships 18,1:18,Vendor A,"High-quality product 456, designed for performance and durability.",469,325.65,412.68
+PRD00457,Product 457,Planes 930,1:24,Vendor B,"High-quality product 457, designed for performance and durability.",483,876.64,1137.39
+PRD00458,Product 458,Ships 822,1:50,Vendor C,"High-quality product 458, designed for performance and durability.",456,866.69,1264.96
+PRD00459,Product 459,Motorcycles 772,1:18,Vendor A,"High-quality product 459, designed for performance and durability.",482,330.17,419.63
+PRD00460,Product 460,Ships 970,1:24,Vendor B,"High-quality product 460, designed for performance and durability.",112,447.08,541.06
+PRD00461,Product 461,Planes 635,1:50,Vendor C,"High-quality product 461, designed for performance and durability.",659,79.41,98.19
+PRD00462,Product 462,Ships 94,1:18,Vendor A,"High-quality product 462, designed for performance and durability.",188,181.90,269.77
+PRD00463,Product 463,Motorcycles 10,1:24,Vendor B,"High-quality product 463, designed for performance and durability.",142,493.52,715.33
+PRD00464,Product 464,Trains 692,1:50,Vendor C,"High-quality product 464, designed for performance and durability.",552,270.86,398.35
+PRD00465,Product 465,Trains 831,1:18,Vendor A,"High-quality product 465, designed for performance and durability.",368,468.08,608.05
+PRD00466,Product 466,Ships 989,1:24,Vendor B,"High-quality product 466, designed for performance and durability.",393,227.76,294.12
+PRD00467,Product 467,Ships 962,1:50,Vendor C,"High-quality product 467, designed for performance and durability.",936,545.82,743.21
+PRD00468,Product 468,Ships 674,1:18,Vendor A,"High-quality product 468, designed for performance and durability.",974,537.84,770.07
+PRD00469,Product 469,Ships 147,1:24,Vendor B,"High-quality product 469, designed for performance and durability.",296,666.49,800.36
+PRD00470,Product 470,Planes 775,1:50,Vendor C,"High-quality product 470, designed for performance and durability.",478,781.45,1042.20
+PRD00471,Product 471,Ships 623,1:18,Vendor A,"High-quality product 471, designed for performance and durability.",583,536.49,769.61
+PRD00472,Product 472,Planes 470,1:24,Vendor B,"High-quality product 472, designed for performance and durability.",996,616.04,782.45
+PRD00473,Product 473,Motorcycles 142,1:50,Vendor C,"High-quality product 473, designed for performance and durability.",996,988.37,1296.45
+PRD00474,Product 474,Classic Cars 134,1:18,Vendor A,"High-quality product 474, designed for performance and durability.",54,620.86,796.42
+PRD00475,Product 475,Motorcycles 99,1:24,Vendor B,"High-quality product 475, designed for performance and durability.",326,666.92,966.42
+PRD00476,Product 476,Motorcycles 433,1:50,Vendor C,"High-quality product 476, designed for performance and durability.",141,954.69,1430.38
+PRD00477,Product 477,Planes 327,1:18,Vendor A,"High-quality product 477, designed for performance and durability.",620,860.23,1085.82
+PRD00478,Product 478,Classic Cars 793,1:24,Vendor B,"High-quality product 478, designed for performance and durability.",858,304.22,406.82
+PRD00479,Product 479,Planes 473,1:50,Vendor C,"High-quality product 479, designed for performance and durability.",721,356.05,472.11
+PRD00480,Product 480,Motorcycles 127,1:18,Vendor A,"High-quality product 480, designed for performance and durability.",309,140.20,207.05
+PRD00481,Product 481,Planes 995,1:24,Vendor B,"High-quality product 481, designed for performance and durability.",272,647.23,794.17
+PRD00482,Product 482,Motorcycles 439,1:50,Vendor C,"High-quality product 482, designed for performance and durability.",608,750.27,901.96
+PRD00483,Product 483,Planes 539,1:18,Vendor A,"High-quality product 483, designed for performance and durability.",891,470.79,615.64
+PRD00484,Product 484,Classic Cars 544,1:24,Vendor B,"High-quality product 484, designed for performance and durability.",826,645.38,877.64
+PRD00485,Product 485,Ships 999,1:50,Vendor C,"High-quality product 485, designed for performance and durability.",768,923.23,1245.16
+PRD00486,Product 486,Motorcycles 855,1:18,Vendor A,"High-quality product 486, designed for performance and durability.",529,63.21,77.38
+PRD00487,Product 487,Ships 356,1:24,Vendor B,"High-quality product 487, designed for performance and durability.",211,94.32,124.78
+PRD00488,Product 488,Planes 879,1:50,Vendor C,"High-quality product 488, designed for performance and durability.",258,317.63,437.69
+PRD00489,Product 489,Classic Cars 20,1:18,Vendor A,"High-quality product 489, designed for performance and durability.",134,752.83,1124.59
+PRD00490,Product 490,Classic Cars 70,1:24,Vendor B,"High-quality product 490, designed for performance and durability.",465,635.44,803.21
+PRD00491,Product 491,Motorcycles 939,1:50,Vendor C,"High-quality product 491, designed for performance and durability.",729,132.04,175.11
+PRD00492,Product 492,Trains 574,1:18,Vendor A,"High-quality product 492, designed for performance and durability.",204,673.17,974.61
+PRD00493,Product 493,Classic Cars 992,1:24,Vendor B,"High-quality product 493, designed for performance and durability.",342,688.32,1005.68
+PRD00494,Product 494,Motorcycles 587,1:50,Vendor C,"High-quality product 494, designed for performance and durability.",939,859.22,1139.97
+PRD00495,Product 495,Classic Cars 828,1:18,Vendor A,"High-quality product 495, designed for performance and durability.",722,142.97,187.25
+PRD00496,Product 496,Ships 839,1:24,Vendor B,"High-quality product 496, designed for performance and durability.",189,590.95,799.24
+PRD00497,Product 497,Planes 892,1:50,Vendor C,"High-quality product 497, designed for performance and durability.",287,572.85,779.71
+PRD00498,Product 498,Planes 242,1:18,Vendor A,"High-quality product 498, designed for performance and durability.",502,256.99,342.37
+PRD00499,Product 499,Trains 396,1:24,Vendor B,"High-quality product 499, designed for performance and durability.",228,648.77,815.14
+PRD00500,Product 500,Trains 448,1:50,Vendor C,"High-quality product 500, designed for performance and durability.",390,188.89,256.11
+PRD00501,Product 501,Trains 60,1:18,Vendor A,"High-quality product 501, designed for performance and durability.",317,599.86,767.64
+PRD00502,Product 502,Classic Cars 120,1:24,Vendor B,"High-quality product 502, designed for performance and durability.",831,890.01,1141.21
+PRD00503,Product 503,Ships 759,1:50,Vendor C,"High-quality product 503, designed for performance and durability.",402,766.18,1143.12
+PRD00504,Product 504,Trains 622,1:18,Vendor A,"High-quality product 504, designed for performance and durability.",593,948.69,1266.32
+PRD00505,Product 505,Planes 47,1:24,Vendor B,"High-quality product 505, designed for performance and durability.",987,539.66,798.63
+PRD00506,Product 506,Planes 450,1:50,Vendor C,"High-quality product 506, designed for performance and durability.",124,547.06,665.44
+PRD00507,Product 507,Planes 367,1:18,Vendor A,"High-quality product 507, designed for performance and durability.",673,195.19,279.89
+PRD00508,Product 508,Trains 622,1:24,Vendor B,"High-quality product 508, designed for performance and durability.",607,710.26,1027.96
+PRD00509,Product 509,Ships 607,1:50,Vendor C,"High-quality product 509, designed for performance and durability.",800,795.64,1025.87
+PRD00510,Product 510,Motorcycles 351,1:18,Vendor A,"High-quality product 510, designed for performance and durability.",877,340.05,428.47
+PRD00511,Product 511,Motorcycles 246,1:24,Vendor B,"High-quality product 511, designed for performance and durability.",558,641.43,918.16
+PRD00512,Product 512,Classic Cars 717,1:50,Vendor C,"High-quality product 512, designed for performance and durability.",355,37.99,50.21
+PRD00513,Product 513,Classic Cars 992,1:18,Vendor A,"High-quality product 513, designed for performance and durability.",123,526.33,744.44
+PRD00514,Product 514,Classic Cars 198,1:24,Vendor B,"High-quality product 514, designed for performance and durability.",184,446.43,649.22
+PRD00515,Product 515,Planes 578,1:50,Vendor C,"High-quality product 515, designed for performance and durability.",341,345.98,472.80
+PRD00516,Product 516,Trains 665,1:18,Vendor A,"High-quality product 516, designed for performance and durability.",751,219.73,316.38
+PRD00517,Product 517,Trains 809,1:24,Vendor B,"High-quality product 517, designed for performance and durability.",691,586.99,733.58
+PRD00518,Product 518,Motorcycles 865,1:50,Vendor C,"High-quality product 518, designed for performance and durability.",742,207.95,270.19
+PRD00519,Product 519,Motorcycles 395,1:18,Vendor A,"High-quality product 519, designed for performance and durability.",659,919.30,1166.86
+PRD00520,Product 520,Classic Cars 464,1:24,Vendor B,"High-quality product 520, designed for performance and durability.",288,212.73,317.29
+PRD00521,Product 521,Ships 378,1:50,Vendor C,"High-quality product 521, designed for performance and durability.",829,373.58,547.45
+PRD00522,Product 522,Ships 709,1:18,Vendor A,"High-quality product 522, designed for performance and durability.",551,144.84,194.09
+PRD00523,Product 523,Ships 362,1:24,Vendor B,"High-quality product 523, designed for performance and durability.",290,708.46,870.83
+PRD00524,Product 524,Ships 790,1:50,Vendor C,"High-quality product 524, designed for performance and durability.",687,338.34,431.49
+PRD00525,Product 525,Planes 109,1:18,Vendor A,"High-quality product 525, designed for performance and durability.",790,980.99,1445.57
+PRD00526,Product 526,Trains 584,1:24,Vendor B,"High-quality product 526, designed for performance and durability.",477,347.76,422.80
+PRD00527,Product 527,Motorcycles 929,1:50,Vendor C,"High-quality product 527, designed for performance and durability.",953,768.25,1041.83
+PRD00528,Product 528,Trains 111,1:18,Vendor A,"High-quality product 528, designed for performance and durability.",901,458.20,555.27
+PRD00529,Product 529,Ships 955,1:24,Vendor B,"High-quality product 529, designed for performance and durability.",870,367.20,471.78
+PRD00530,Product 530,Ships 740,1:50,Vendor C,"High-quality product 530, designed for performance and durability.",262,372.03,529.36
+PRD00531,Product 531,Trains 695,1:18,Vendor A,"High-quality product 531, designed for performance and durability.",264,808.79,1152.23
+PRD00532,Product 532,Classic Cars 563,1:24,Vendor B,"High-quality product 532, designed for performance and durability.",653,156.63,203.29
+PRD00533,Product 533,Classic Cars 297,1:50,Vendor C,"High-quality product 533, designed for performance and durability.",687,98.62,121.83
+PRD00534,Product 534,Classic Cars 661,1:18,Vendor A,"High-quality product 534, designed for performance and durability.",306,726.92,962.96
+PRD00535,Product 535,Ships 764,1:24,Vendor B,"High-quality product 535, designed for performance and durability.",665,889.58,1227.27
+PRD00536,Product 536,Ships 2,1:50,Vendor C,"High-quality product 536, designed for performance and durability.",901,997.61,1476.02
+PRD00537,Product 537,Classic Cars 491,1:18,Vendor A,"High-quality product 537, designed for performance and durability.",848,653.06,930.14
+PRD00538,Product 538,Ships 653,1:24,Vendor B,"High-quality product 538, designed for performance and durability.",359,43.90,55.55
+PRD00539,Product 539,Ships 684,1:50,Vendor C,"High-quality product 539, designed for performance and durability.",957,127.58,180.33
+PRD00540,Product 540,Trains 232,1:18,Vendor A,"High-quality product 540, designed for performance and durability.",934,935.16,1361.29
+PRD00541,Product 541,Ships 482,1:24,Vendor B,"High-quality product 541, designed for performance and durability.",552,720.83,1027.87
+PRD00542,Product 542,Ships 649,1:50,Vendor C,"High-quality product 542, designed for performance and durability.",442,903.45,1101.55
+PRD00543,Product 543,Classic Cars 987,1:18,Vendor A,"High-quality product 543, designed for performance and durability.",586,220.34,280.42
+PRD00544,Product 544,Planes 353,1:24,Vendor B,"High-quality product 544, designed for performance and durability.",721,513.18,687.44
+PRD00545,Product 545,Ships 814,1:50,Vendor C,"High-quality product 545, designed for performance and durability.",190,537.51,658.18
+PRD00546,Product 546,Classic Cars 992,1:18,Vendor A,"High-quality product 546, designed for performance and durability.",823,799.76,1067.96
+PRD00547,Product 547,Motorcycles 738,1:24,Vendor B,"High-quality product 547, designed for performance and durability.",96,164.82,234.29
+PRD00548,Product 548,Trains 734,1:50,Vendor C,"High-quality product 548, designed for performance and durability.",104,739.62,961.59
+PRD00549,Product 549,Motorcycles 703,1:18,Vendor A,"High-quality product 549, designed for performance and durability.",243,851.00,1182.62
+PRD00550,Product 550,Classic Cars 791,1:24,Vendor B,"High-quality product 550, designed for performance and durability.",812,569.85,759.08
+PRD00551,Product 551,Trains 303,1:50,Vendor C,"High-quality product 551, designed for performance and durability.",521,631.54,803.58
+PRD00552,Product 552,Planes 162,1:18,Vendor A,"High-quality product 552, designed for performance and durability.",857,727.60,896.71
+PRD00553,Product 553,Classic Cars 390,1:24,Vendor B,"High-quality product 553, designed for performance and durability.",623,910.36,1153.18
+PRD00554,Product 554,Planes 614,1:50,Vendor C,"High-quality product 554, designed for performance and durability.",193,462.80,648.85
+PRD00555,Product 555,Planes 637,1:18,Vendor A,"High-quality product 555, designed for performance and durability.",471,565.33,716.80
+PRD00556,Product 556,Trains 116,1:24,Vendor B,"High-quality product 556, designed for performance and durability.",176,928.53,1191.93
+PRD00557,Product 557,Motorcycles 145,1:50,Vendor C,"High-quality product 557, designed for performance and durability.",830,193.67,233.09
+PRD00558,Product 558,Ships 435,1:18,Vendor A,"High-quality product 558, designed for performance and durability.",721,539.22,721.09
+PRD00559,Product 559,Classic Cars 114,1:24,Vendor B,"High-quality product 559, designed for performance and durability.",61,358.93,476.80
+PRD00560,Product 560,Classic Cars 253,1:50,Vendor C,"High-quality product 560, designed for performance and durability.",319,84.45,114.52
+PRD00561,Product 561,Planes 569,1:18,Vendor A,"High-quality product 561, designed for performance and durability.",816,958.32,1324.12
+PRD00562,Product 562,Planes 624,1:24,Vendor B,"High-quality product 562, designed for performance and durability.",638,791.07,1139.28
+PRD00563,Product 563,Classic Cars 803,1:50,Vendor C,"High-quality product 563, designed for performance and durability.",323,632.25,867.74
+PRD00564,Product 564,Motorcycles 776,1:18,Vendor A,"High-quality product 564, designed for performance and durability.",188,494.13,665.22
+PRD00565,Product 565,Ships 163,1:24,Vendor B,"High-quality product 565, designed for performance and durability.",368,411.05,576.18
+PRD00566,Product 566,Classic Cars 275,1:50,Vendor C,"High-quality product 566, designed for performance and durability.",813,365.12,502.94
+PRD00567,Product 567,Motorcycles 748,1:18,Vendor A,"High-quality product 567, designed for performance and durability.",295,524.58,778.77
+PRD00568,Product 568,Planes 290,1:24,Vendor B,"High-quality product 568, designed for performance and durability.",973,14.34,18.34
+PRD00569,Product 569,Classic Cars 345,1:50,Vendor C,"High-quality product 569, designed for performance and durability.",881,452.90,584.44
+PRD00570,Product 570,Motorcycles 801,1:18,Vendor A,"High-quality product 570, designed for performance and durability.",663,899.88,1240.48
+PRD00571,Product 571,Ships 65,1:24,Vendor B,"High-quality product 571, designed for performance and durability.",556,317.71,421.87
+PRD00572,Product 572,Planes 165,1:50,Vendor C,"High-quality product 572, designed for performance and durability.",699,563.54,759.80
+PRD00573,Product 573,Classic Cars 357,1:18,Vendor A,"High-quality product 573, designed for performance and durability.",561,141.94,192.34
+PRD00574,Product 574,Motorcycles 863,1:24,Vendor B,"High-quality product 574, designed for performance and durability.",560,463.24,598.16
+PRD00575,Product 575,Planes 986,1:50,Vendor C,"High-quality product 575, designed for performance and durability.",321,920.34,1309.14
+PRD00576,Product 576,Motorcycles 846,1:18,Vendor A,"High-quality product 576, designed for performance and durability.",682,46.00,63.03
+PRD00577,Product 577,Planes 519,1:24,Vendor B,"High-quality product 577, designed for performance and durability.",845,929.76,1386.79
+PRD00578,Product 578,Trains 336,1:50,Vendor C,"High-quality product 578, designed for performance and durability.",918,786.54,968.90
+PRD00579,Product 579,Trains 580,1:18,Vendor A,"High-quality product 579, designed for performance and durability.",125,13.87,20.19
+PRD00580,Product 580,Trains 293,1:24,Vendor B,"High-quality product 580, designed for performance and durability.",638,650.57,924.62
+PRD00581,Product 581,Classic Cars 933,1:50,Vendor C,"High-quality product 581, designed for performance and durability.",81,301.94,402.23
+PRD00582,Product 582,Planes 463,1:18,Vendor A,"High-quality product 582, designed for performance and durability.",862,346.44,434.53
+PRD00583,Product 583,Motorcycles 812,1:24,Vendor B,"High-quality product 583, designed for performance and durability.",550,71.59,96.70
+PRD00584,Product 584,Classic Cars 381,1:50,Vendor C,"High-quality product 584, designed for performance and durability.",327,181.84,222.58
+PRD00585,Product 585,Motorcycles 36,1:18,Vendor A,"High-quality product 585, designed for performance and durability.",472,612.71,772.84
+PRD00586,Product 586,Trains 605,1:24,Vendor B,"High-quality product 586, designed for performance and durability.",183,929.54,1379.79
+PRD00587,Product 587,Motorcycles 866,1:50,Vendor C,"High-quality product 587, designed for performance and durability.",736,276.77,350.87
+PRD00588,Product 588,Trains 293,1:18,Vendor A,"High-quality product 588, designed for performance and durability.",606,942.85,1306.39
+PRD00589,Product 589,Trains 140,1:24,Vendor B,"High-quality product 589, designed for performance and durability.",85,866.16,1249.82
+PRD00590,Product 590,Classic Cars 301,1:50,Vendor C,"High-quality product 590, designed for performance and durability.",464,910.46,1171.28
+PRD00591,Product 591,Trains 695,1:18,Vendor A,"High-quality product 591, designed for performance and durability.",398,672.31,884.45
+PRD00592,Product 592,Classic Cars 199,1:24,Vendor B,"High-quality product 592, designed for performance and durability.",559,589.16,741.07
+PRD00593,Product 593,Classic Cars 961,1:50,Vendor C,"High-quality product 593, designed for performance and durability.",854,488.74,633.26
+PRD00594,Product 594,Planes 864,1:18,Vendor A,"High-quality product 594, designed for performance and durability.",665,667.03,884.93
+PRD00595,Product 595,Classic Cars 728,1:24,Vendor B,"High-quality product 595, designed for performance and durability.",901,962.69,1356.18
+PRD00596,Product 596,Classic Cars 575,1:50,Vendor C,"High-quality product 596, designed for performance and durability.",585,598.05,802.12
+PRD00597,Product 597,Planes 444,1:18,Vendor A,"High-quality product 597, designed for performance and durability.",244,481.14,596.11
+PRD00598,Product 598,Classic Cars 291,1:24,Vendor B,"High-quality product 598, designed for performance and durability.",673,777.51,1070.28
+PRD00599,Product 599,Classic Cars 261,1:50,Vendor C,"High-quality product 599, designed for performance and durability.",72,573.00,778.59
+PRD00600,Product 600,Ships 9,1:18,Vendor A,"High-quality product 600, designed for performance and durability.",510,737.25,948.52
+PRD00601,Product 601,Ships 515,1:24,Vendor B,"High-quality product 601, designed for performance and durability.",785,407.66,553.89
+PRD00602,Product 602,Classic Cars 958,1:50,Vendor C,"High-quality product 602, designed for performance and durability.",351,516.13,627.60
+PRD00603,Product 603,Classic Cars 836,1:18,Vendor A,"High-quality product 603, designed for performance and durability.",738,353.27,500.33
+PRD00604,Product 604,Trains 988,1:24,Vendor B,"High-quality product 604, designed for performance and durability.",87,418.24,565.29
+PRD00605,Product 605,Classic Cars 615,1:50,Vendor C,"High-quality product 605, designed for performance and durability.",194,333.56,447.71
+PRD00606,Product 606,Motorcycles 6,1:18,Vendor A,"High-quality product 606, designed for performance and durability.",218,313.98,404.58
+PRD00607,Product 607,Motorcycles 631,1:24,Vendor B,"High-quality product 607, designed for performance and durability.",825,530.61,712.82
+PRD00608,Product 608,Ships 406,1:50,Vendor C,"High-quality product 608, designed for performance and durability.",80,613.22,751.63
+PRD00609,Product 609,Classic Cars 1,1:18,Vendor A,"High-quality product 609, designed for performance and durability.",574,908.97,1280.15
+PRD00610,Product 610,Classic Cars 44,1:24,Vendor B,"High-quality product 610, designed for performance and durability.",727,242.43,295.84
+PRD00611,Product 611,Classic Cars 752,1:50,Vendor C,"High-quality product 611, designed for performance and durability.",438,242.63,326.26
+PRD00612,Product 612,Ships 709,1:18,Vendor A,"High-quality product 612, designed for performance and durability.",931,366.19,509.75
+PRD00613,Product 613,Ships 343,1:24,Vendor B,"High-quality product 613, designed for performance and durability.",456,76.20,100.55
+PRD00614,Product 614,Motorcycles 284,1:50,Vendor C,"High-quality product 614, designed for performance and durability.",882,850.51,1069.94
+PRD00615,Product 615,Classic Cars 42,1:18,Vendor A,"High-quality product 615, designed for performance and durability.",725,239.58,324.69
+PRD00616,Product 616,Motorcycles 757,1:24,Vendor B,"High-quality product 616, designed for performance and durability.",913,54.91,80.64
+PRD00617,Product 617,Classic Cars 410,1:50,Vendor C,"High-quality product 617, designed for performance and durability.",941,177.29,227.27
+PRD00618,Product 618,Ships 417,1:18,Vendor A,"High-quality product 618, designed for performance and durability.",112,798.66,1151.66
+PRD00619,Product 619,Ships 105,1:24,Vendor B,"High-quality product 619, designed for performance and durability.",996,248.69,332.37
+PRD00620,Product 620,Classic Cars 412,1:50,Vendor C,"High-quality product 620, designed for performance and durability.",214,393.37,508.09
+PRD00621,Product 621,Motorcycles 738,1:18,Vendor A,"High-quality product 621, designed for performance and durability.",289,501.24,645.15
+PRD00622,Product 622,Planes 242,1:24,Vendor B,"High-quality product 622, designed for performance and durability.",995,965.29,1184.05
+PRD00623,Product 623,Ships 196,1:50,Vendor C,"High-quality product 623, designed for performance and durability.",730,496.99,704.60
+PRD00624,Product 624,Motorcycles 159,1:18,Vendor A,"High-quality product 624, designed for performance and durability.",843,236.00,305.41
+PRD00625,Product 625,Planes 122,1:24,Vendor B,"High-quality product 625, designed for performance and durability.",211,811.11,1211.07
+PRD00626,Product 626,Motorcycles 394,1:50,Vendor C,"High-quality product 626, designed for performance and durability.",290,839.20,1018.31
+PRD00627,Product 627,Classic Cars 518,1:18,Vendor A,"High-quality product 627, designed for performance and durability.",391,233.45,299.27
+PRD00628,Product 628,Classic Cars 503,1:24,Vendor B,"High-quality product 628, designed for performance and durability.",68,845.18,1036.95
+PRD00629,Product 629,Trains 396,1:50,Vendor C,"High-quality product 629, designed for performance and durability.",597,830.06,1113.42
+PRD00630,Product 630,Planes 916,1:18,Vendor A,"High-quality product 630, designed for performance and durability.",794,851.15,1147.19
+PRD00631,Product 631,Trains 779,1:24,Vendor B,"High-quality product 631, designed for performance and durability.",515,704.40,879.69
+PRD00632,Product 632,Trains 706,1:50,Vendor C,"High-quality product 632, designed for performance and durability.",869,940.69,1173.86
+PRD00633,Product 633,Ships 588,1:18,Vendor A,"High-quality product 633, designed for performance and durability.",744,830.05,1201.20
+PRD00634,Product 634,Planes 244,1:24,Vendor B,"High-quality product 634, designed for performance and durability.",684,517.41,642.99
+PRD00635,Product 635,Trains 180,1:50,Vendor C,"High-quality product 635, designed for performance and durability.",387,546.32,809.38
+PRD00636,Product 636,Ships 784,1:18,Vendor A,"High-quality product 636, designed for performance and durability.",462,932.14,1150.40
+PRD00637,Product 637,Planes 431,1:24,Vendor B,"High-quality product 637, designed for performance and durability.",965,378.33,517.27
+PRD00638,Product 638,Planes 162,1:50,Vendor C,"High-quality product 638, designed for performance and durability.",561,705.60,954.38
+PRD00639,Product 639,Classic Cars 940,1:18,Vendor A,"High-quality product 639, designed for performance and durability.",398,401.68,578.81
+PRD00640,Product 640,Trains 222,1:24,Vendor B,"High-quality product 640, designed for performance and durability.",444,577.28,827.46
+PRD00641,Product 641,Trains 341,1:50,Vendor C,"High-quality product 641, designed for performance and durability.",650,560.46,704.53
+PRD00642,Product 642,Planes 672,1:18,Vendor A,"High-quality product 642, designed for performance and durability.",264,629.41,919.06
+PRD00643,Product 643,Planes 982,1:24,Vendor B,"High-quality product 643, designed for performance and durability.",687,245.47,328.11
+PRD00644,Product 644,Classic Cars 956,1:50,Vendor C,"High-quality product 644, designed for performance and durability.",355,20.62,25.83
+PRD00645,Product 645,Ships 282,1:18,Vendor A,"High-quality product 645, designed for performance and durability.",211,964.24,1242.85
+PRD00646,Product 646,Trains 782,1:24,Vendor B,"High-quality product 646, designed for performance and durability.",224,715.00,1006.18
+PRD00647,Product 647,Ships 654,1:50,Vendor C,"High-quality product 647, designed for performance and durability.",640,414.38,553.02
+PRD00648,Product 648,Planes 497,1:18,Vendor A,"High-quality product 648, designed for performance and durability.",302,207.34,274.38
+PRD00649,Product 649,Classic Cars 788,1:24,Vendor B,"High-quality product 649, designed for performance and durability.",897,157.97,200.75
+PRD00650,Product 650,Ships 260,1:50,Vendor C,"High-quality product 650, designed for performance and durability.",97,826.37,1048.56
+PRD00651,Product 651,Ships 720,1:18,Vendor A,"High-quality product 651, designed for performance and durability.",356,626.24,869.97
+PRD00652,Product 652,Ships 462,1:24,Vendor B,"High-quality product 652, designed for performance and durability.",958,181.91,223.29
+PRD00653,Product 653,Ships 79,1:50,Vendor C,"High-quality product 653, designed for performance and durability.",393,338.65,410.03
+PRD00654,Product 654,Ships 143,1:18,Vendor A,"High-quality product 654, designed for performance and durability.",122,405.45,492.90
+PRD00655,Product 655,Trains 984,1:24,Vendor B,"High-quality product 655, designed for performance and durability.",843,797.76,1169.48
+PRD00656,Product 656,Ships 149,1:50,Vendor C,"High-quality product 656, designed for performance and durability.",791,409.47,514.46
+PRD00657,Product 657,Trains 860,1:18,Vendor A,"High-quality product 657, designed for performance and durability.",483,864.29,1121.45
+PRD00658,Product 658,Trains 363,1:24,Vendor B,"High-quality product 658, designed for performance and durability.",880,191.33,282.06
+PRD00659,Product 659,Planes 889,1:50,Vendor C,"High-quality product 659, designed for performance and durability.",450,94.90,125.27
+PRD00660,Product 660,Motorcycles 493,1:18,Vendor A,"High-quality product 660, designed for performance and durability.",357,456.00,633.29
+PRD00661,Product 661,Planes 699,1:24,Vendor B,"High-quality product 661, designed for performance and durability.",429,916.03,1131.87
+PRD00662,Product 662,Planes 118,1:50,Vendor C,"High-quality product 662, designed for performance and durability.",249,261.66,339.51
+PRD00663,Product 663,Motorcycles 195,1:18,Vendor A,"High-quality product 663, designed for performance and durability.",627,151.54,221.40
+PRD00664,Product 664,Planes 931,1:24,Vendor B,"High-quality product 664, designed for performance and durability.",326,745.41,976.64
+PRD00665,Product 665,Ships 923,1:50,Vendor C,"High-quality product 665, designed for performance and durability.",763,935.01,1321.45
+PRD00666,Product 666,Classic Cars 828,1:18,Vendor A,"High-quality product 666, designed for performance and durability.",996,178.54,238.59
+PRD00667,Product 667,Ships 888,1:24,Vendor B,"High-quality product 667, designed for performance and durability.",583,515.67,726.44
+PRD00668,Product 668,Motorcycles 272,1:50,Vendor C,"High-quality product 668, designed for performance and durability.",146,434.05,546.57
+PRD00669,Product 669,Trains 771,1:18,Vendor A,"High-quality product 669, designed for performance and durability.",211,466.80,573.11
+PRD00670,Product 670,Ships 745,1:24,Vendor B,"High-quality product 670, designed for performance and durability.",620,942.73,1311.65
+PRD00671,Product 671,Trains 137,1:50,Vendor C,"High-quality product 671, designed for performance and durability.",118,990.31,1223.71
+PRD00672,Product 672,Classic Cars 615,1:18,Vendor A,"High-quality product 672, designed for performance and durability.",320,914.47,1354.10
+PRD00673,Product 673,Motorcycles 205,1:24,Vendor B,"High-quality product 673, designed for performance and durability.",790,362.09,493.98
+PRD00674,Product 674,Motorcycles 543,1:50,Vendor C,"High-quality product 674, designed for performance and durability.",263,800.96,1042.32
+PRD00675,Product 675,Trains 478,1:18,Vendor A,"High-quality product 675, designed for performance and durability.",878,624.40,807.46
+PRD00676,Product 676,Trains 484,1:24,Vendor B,"High-quality product 676, designed for performance and durability.",285,37.82,55.12
+PRD00677,Product 677,Planes 486,1:50,Vendor C,"High-quality product 677, designed for performance and durability.",974,415.42,619.77
+PRD00678,Product 678,Trains 53,1:18,Vendor A,"High-quality product 678, designed for performance and durability.",610,534.28,777.72
+PRD00679,Product 679,Classic Cars 139,1:24,Vendor B,"High-quality product 679, designed for performance and durability.",375,289.78,433.27
+PRD00680,Product 680,Ships 653,1:50,Vendor C,"High-quality product 680, designed for performance and durability.",603,501.04,732.92
+PRD00681,Product 681,Planes 384,1:18,Vendor A,"High-quality product 681, designed for performance and durability.",512,784.33,1172.96
+PRD00682,Product 682,Classic Cars 726,1:24,Vendor B,"High-quality product 682, designed for performance and durability.",607,850.29,1110.11
+PRD00683,Product 683,Planes 672,1:50,Vendor C,"High-quality product 683, designed for performance and durability.",594,612.01,793.09
+PRD00684,Product 684,Motorcycles 235,1:18,Vendor A,"High-quality product 684, designed for performance and durability.",782,588.89,833.49
+PRD00685,Product 685,Ships 893,1:24,Vendor B,"High-quality product 685, designed for performance and durability.",86,703.68,974.44
+PRD00686,Product 686,Planes 214,1:50,Vendor C,"High-quality product 686, designed for performance and durability.",995,130.08,190.50
+PRD00687,Product 687,Classic Cars 575,1:18,Vendor A,"High-quality product 687, designed for performance and durability.",960,808.57,1146.52
+PRD00688,Product 688,Ships 741,1:24,Vendor B,"High-quality product 688, designed for performance and durability.",690,255.50,353.44
+PRD00689,Product 689,Classic Cars 992,1:50,Vendor C,"High-quality product 689, designed for performance and durability.",871,339.17,487.86
+PRD00690,Product 690,Trains 584,1:18,Vendor A,"High-quality product 690, designed for performance and durability.",864,364.96,470.21
+PRD00691,Product 691,Ships 234,1:24,Vendor B,"High-quality product 691, designed for performance and durability.",266,644.99,953.32
+PRD00692,Product 692,Trains 54,1:50,Vendor C,"High-quality product 692, designed for performance and durability.",720,207.29,294.26
+PRD00693,Product 693,Classic Cars 494,1:18,Vendor A,"High-quality product 693, designed for performance and durability.",436,162.16,205.12
+PRD00694,Product 694,Ships 59,1:24,Vendor B,"High-quality product 694, designed for performance and durability.",882,971.01,1332.06
+PRD00695,Product 695,Ships 925,1:50,Vendor C,"High-quality product 695, designed for performance and durability.",343,163.42,220.06
+PRD00696,Product 696,Ships 819,1:18,Vendor A,"High-quality product 696, designed for performance and durability.",775,428.94,593.69
+PRD00697,Product 697,Classic Cars 120,1:24,Vendor B,"High-quality product 697, designed for performance and durability.",340,623.38,780.09
+PRD00698,Product 698,Trains 222,1:50,Vendor C,"High-quality product 698, designed for performance and durability.",320,507.32,670.48
+PRD00699,Product 699,Planes 47,1:18,Vendor A,"High-quality product 699, designed for performance and durability.",406,828.87,1087.50
+PRD00700,Product 700,Planes 463,1:24,Vendor B,"High-quality product 700, designed for performance and durability.",365,517.68,737.58
+PRD00701,Product 701,Ships 158,1:50,Vendor C,"High-quality product 701, designed for performance and durability.",303,144.91,202.95
+PRD00702,Product 702,Ships 356,1:18,Vendor A,"High-quality product 702, designed for performance and durability.",583,275.05,373.00
+PRD00703,Product 703,Planes 431,1:24,Vendor B,"High-quality product 703, designed for performance and durability.",677,651.58,884.69
+PRD00704,Product 704,Classic Cars 788,1:50,Vendor C,"High-quality product 704, designed for performance and durability.",323,226.38,298.08
+PRD00705,Product 705,Classic Cars 557,1:18,Vendor A,"High-quality product 705, designed for performance and durability.",106,19.27,26.68
+PRD00706,Product 706,Planes 265,1:24,Vendor B,"High-quality product 706, designed for performance and durability.",683,940.75,1176.25
+PRD00707,Product 707,Classic Cars 785,1:50,Vendor C,"High-quality product 707, designed for performance and durability.",181,707.05,1047.94
+PRD00708,Product 708,Planes 92,1:18,Vendor A,"High-quality product 708, designed for performance and durability.",783,533.71,654.94
+PRD00709,Product 709,Ships 2,1:24,Vendor B,"High-quality product 709, designed for performance and durability.",353,531.94,665.35
+PRD00710,Product 710,Planes 255,1:50,Vendor C,"High-quality product 710, designed for performance and durability.",455,635.31,838.20
+PRD00711,Product 711,Classic Cars 564,1:18,Vendor A,"High-quality product 711, designed for performance and durability.",253,840.19,1025.07
+PRD00712,Product 712,Ships 547,1:24,Vendor B,"High-quality product 712, designed for performance and durability.",543,275.66,378.67
+PRD00713,Product 713,Planes 115,1:50,Vendor C,"High-quality product 713, designed for performance and durability.",108,467.71,653.00
+PRD00714,Product 714,Trains 537,1:18,Vendor A,"High-quality product 714, designed for performance and durability.",670,172.31,256.46
+PRD00715,Product 715,Classic Cars 412,1:24,Vendor B,"High-quality product 715, designed for performance and durability.",142,489.52,660.10
+PRD00716,Product 716,Trains 489,1:50,Vendor C,"High-quality product 716, designed for performance and durability.",755,268.45,334.41
+PRD00717,Product 717,Motorcycles 439,1:18,Vendor A,"High-quality product 717, designed for performance and durability.",72,565.37,679.16
+PRD00718,Product 718,Trains 604,1:24,Vendor B,"High-quality product 718, designed for performance and durability.",249,619.05,811.61
+PRD00719,Product 719,Trains 724,1:50,Vendor C,"High-quality product 719, designed for performance and durability.",840,941.73,1316.65
+PRD00720,Product 720,Ships 304,1:18,Vendor A,"High-quality product 720, designed for performance and durability.",346,109.93,137.80
+PRD00721,Product 721,Planes 165,1:24,Vendor B,"High-quality product 721, designed for performance and durability.",717,434.03,575.67
+PRD00722,Product 722,Motorcycles 101,1:50,Vendor C,"High-quality product 722, designed for performance and durability.",924,635.26,919.71
+PRD00723,Product 723,Classic Cars 191,1:18,Vendor A,"High-quality product 723, designed for performance and durability.",650,464.86,695.47
+PRD00724,Product 724,Planes 468,1:24,Vendor B,"High-quality product 724, designed for performance and durability.",309,19.65,26.09
+PRD00725,Product 725,Trains 461,1:50,Vendor C,"High-quality product 725, designed for performance and durability.",942,268.84,393.85
+PRD00726,Product 726,Ships 79,1:18,Vendor A,"High-quality product 726, designed for performance and durability.",194,270.25,399.19
+PRD00727,Product 727,Ships 158,1:24,Vendor B,"High-quality product 727, designed for performance and durability.",171,329.17,457.65
+PRD00728,Product 728,Ships 105,1:50,Vendor C,"High-quality product 728, designed for performance and durability.",760,369.43,523.21
+PRD00729,Product 729,Planes 733,1:18,Vendor A,"High-quality product 729, designed for performance and durability.",611,376.26,557.46
+PRD00730,Product 730,Classic Cars 225,1:24,Vendor B,"High-quality product 730, designed for performance and durability.",97,244.79,353.69
+PRD00731,Product 731,Classic Cars 992,1:50,Vendor C,"High-quality product 731, designed for performance and durability.",639,830.42,1107.16
+PRD00732,Product 732,Classic Cars 138,1:18,Vendor A,"High-quality product 732, designed for performance and durability.",624,728.50,983.25
+PRD00733,Product 733,Trains 689,1:24,Vendor B,"High-quality product 733, designed for performance and durability.",790,428.30,566.59
+PRD00734,Product 734,Motorcycles 768,1:50,Vendor C,"High-quality product 734, designed for performance and durability.",681,295.34,374.11
+PRD00735,Product 735,Motorcycles 186,1:18,Vendor A,"High-quality product 735, designed for performance and durability.",917,783.92,965.12
+PRD00736,Product 736,Ships 976,1:24,Vendor B,"High-quality product 736, designed for performance and durability.",52,898.43,1324.10
+PRD00737,Product 737,Classic Cars 913,1:50,Vendor C,"High-quality product 737, designed for performance and durability.",501,316.73,439.34
+PRD00738,Product 738,Planes 436,1:18,Vendor A,"High-quality product 738, designed for performance and durability.",710,240.97,316.67
+PRD00739,Product 739,Motorcycles 346,1:24,Vendor B,"High-quality product 739, designed for performance and durability.",805,871.74,1057.38
+PRD00740,Product 740,Classic Cars 322,1:50,Vendor C,"High-quality product 740, designed for performance and durability.",572,469.28,612.12
+PRD00741,Product 741,Motorcycles 694,1:18,Vendor A,"High-quality product 741, designed for performance and durability.",863,952.53,1238.35
+PRD00742,Product 742,Classic Cars 526,1:24,Vendor B,"High-quality product 742, designed for performance and durability.",369,12.70,16.15
+PRD00743,Product 743,Ships 258,1:50,Vendor C,"High-quality product 743, designed for performance and durability.",809,999.70,1421.00
+PRD00744,Product 744,Trains 60,1:18,Vendor A,"High-quality product 744, designed for performance and durability.",838,707.10,955.45
+PRD00745,Product 745,Motorcycles 305,1:24,Vendor B,"High-quality product 745, designed for performance and durability.",739,943.29,1261.40
+PRD00746,Product 746,Planes 539,1:50,Vendor C,"High-quality product 746, designed for performance and durability.",725,216.10,278.95
+PRD00747,Product 747,Classic Cars 662,1:18,Vendor A,"High-quality product 747, designed for performance and durability.",848,264.14,385.24
+PRD00748,Product 748,Trains 601,1:24,Vendor B,"High-quality product 748, designed for performance and durability.",602,71.83,98.20
+PRD00749,Product 749,Planes 627,1:50,Vendor C,"High-quality product 749, designed for performance and durability.",726,58.37,73.13
+PRD00750,Product 750,Trains 506,1:18,Vendor A,"High-quality product 750, designed for performance and durability.",948,240.65,305.60
+PRD00751,Product 751,Motorcycles 91,1:24,Vendor B,"High-quality product 751, designed for performance and durability.",977,937.84,1403.27
+PRD00752,Product 752,Classic Cars 441,1:50,Vendor C,"High-quality product 752, designed for performance and durability.",601,473.18,697.13
+PRD00753,Product 753,Motorcycles 159,1:18,Vendor A,"High-quality product 753, designed for performance and durability.",660,364.46,483.28
+PRD00754,Product 754,Motorcycles 126,1:24,Vendor B,"High-quality product 754, designed for performance and durability.",873,373.73,520.10
+PRD00755,Product 755,Ships 16,1:50,Vendor C,"High-quality product 755, designed for performance and durability.",757,695.31,896.03
+PRD00756,Product 756,Planes 635,1:18,Vendor A,"High-quality product 756, designed for performance and durability.",334,705.82,1005.25
+PRD00757,Product 757,Classic Cars 754,1:24,Vendor B,"High-quality product 757, designed for performance and durability.",97,719.78,1058.41
+PRD00758,Product 758,Trains 111,1:50,Vendor C,"High-quality product 758, designed for performance and durability.",878,888.33,1255.33
+PRD00759,Product 759,Classic Cars 762,1:18,Vendor A,"High-quality product 759, designed for performance and durability.",161,952.20,1221.91
+PRD00760,Product 760,Ships 611,1:24,Vendor B,"High-quality product 760, designed for performance and durability.",338,761.80,1065.38
+PRD00761,Product 761,Trains 208,1:50,Vendor C,"High-quality product 761, designed for performance and durability.",690,608.81,731.63
+PRD00762,Product 762,Ships 671,1:18,Vendor A,"High-quality product 762, designed for performance and durability.",587,452.99,640.97
+PRD00763,Product 763,Trains 266,1:24,Vendor B,"High-quality product 763, designed for performance and durability.",979,976.03,1278.42
+PRD00764,Product 764,Planes 926,1:50,Vendor C,"High-quality product 764, designed for performance and durability.",284,603.96,808.45
+PRD00765,Product 765,Trains 598,1:18,Vendor A,"High-quality product 765, designed for performance and durability.",955,527.19,642.81
+PRD00766,Product 766,Planes 250,1:24,Vendor B,"High-quality product 766, designed for performance and durability.",80,344.98,459.99
+PRD00767,Product 767,Ships 994,1:50,Vendor C,"High-quality product 767, designed for performance and durability.",471,574.96,784.82
+PRD00768,Product 768,Ships 819,1:18,Vendor A,"High-quality product 768, designed for performance and durability.",569,740.55,990.20
+PRD00769,Product 769,Ships 254,1:24,Vendor B,"High-quality product 769, designed for performance and durability.",932,41.84,55.11
+PRD00770,Product 770,Ships 358,1:50,Vendor C,"High-quality product 770, designed for performance and durability.",608,104.84,140.35
+PRD00771,Product 771,Trains 3,1:18,Vendor A,"High-quality product 771, designed for performance and durability.",618,402.95,541.47
+PRD00772,Product 772,Motorcycles 577,1:24,Vendor B,"High-quality product 772, designed for performance and durability.",59,584.60,753.07
+PRD00773,Product 773,Ships 16,1:50,Vendor C,"High-quality product 773, designed for performance and durability.",512,668.02,843.69
+PRD00774,Product 774,Classic Cars 835,1:18,Vendor A,"High-quality product 774, designed for performance and durability.",467,33.77,42.94
+PRD00775,Product 775,Classic Cars 708,1:24,Vendor B,"High-quality product 775, designed for performance and durability.",155,524.64,714.13
+PRD00776,Product 776,Trains 141,1:50,Vendor C,"High-quality product 776, designed for performance and durability.",697,71.44,100.82
+PRD00777,Product 777,Trains 567,1:18,Vendor A,"High-quality product 777, designed for performance and durability.",761,460.74,585.74
+PRD00778,Product 778,Motorcycles 351,1:24,Vendor B,"High-quality product 778, designed for performance and durability.",270,474.94,681.72
+PRD00779,Product 779,Planes 862,1:50,Vendor C,"High-quality product 779, designed for performance and durability.",638,245.15,303.68
+PRD00780,Product 780,Trains 560,1:18,Vendor A,"High-quality product 780, designed for performance and durability.",631,61.46,82.39
+PRD00781,Product 781,Ships 311,1:24,Vendor B,"High-quality product 781, designed for performance and durability.",872,965.32,1201.76
+PRD00782,Product 782,Planes 47,1:50,Vendor C,"High-quality product 782, designed for performance and durability.",780,912.15,1319.70
+PRD00783,Product 783,Trains 528,1:18,Vendor A,"High-quality product 783, designed for performance and durability.",351,432.57,604.78
+PRD00784,Product 784,Motorcycles 433,1:24,Vendor B,"High-quality product 784, designed for performance and durability.",513,171.38,256.97
+PRD00785,Product 785,Classic Cars 291,1:50,Vendor C,"High-quality product 785, designed for performance and durability.",185,51.51,64.17
+PRD00786,Product 786,Ships 292,1:18,Vendor A,"High-quality product 786, designed for performance and durability.",286,718.23,931.23
+PRD00787,Product 787,Trains 603,1:24,Vendor B,"High-quality product 787, designed for performance and durability.",580,929.90,1227.35
+PRD00788,Product 788,Motorcycles 812,1:50,Vendor C,"High-quality product 788, designed for performance and durability.",387,264.94,336.03
+PRD00789,Product 789,Planes 879,1:18,Vendor A,"High-quality product 789, designed for performance and durability.",614,869.54,1258.25
+PRD00790,Product 790,Ships 632,1:24,Vendor B,"High-quality product 790, designed for performance and durability.",456,293.65,414.06
+PRD00791,Product 791,Ships 453,1:50,Vendor C,"High-quality product 791, designed for performance and durability.",507,308.71,406.88
+PRD00792,Product 792,Classic Cars 306,1:18,Vendor A,"High-quality product 792, designed for performance and durability.",406,933.58,1244.29
+PRD00793,Product 793,Trains 990,1:24,Vendor B,"High-quality product 793, designed for performance and durability.",276,974.29,1293.31
+PRD00794,Product 794,Trains 363,1:50,Vendor C,"High-quality product 794, designed for performance and durability.",947,628.39,886.83
+PRD00795,Product 795,Motorcycles 967,1:18,Vendor A,"High-quality product 795, designed for performance and durability.",943,813.10,1183.83
+PRD00796,Product 796,Motorcycles 651,1:24,Vendor B,"High-quality product 796, designed for performance and durability.",920,873.23,1078.06
+PRD00797,Product 797,Planes 490,1:50,Vendor C,"High-quality product 797, designed for performance and durability.",122,90.29,134.51
+PRD00798,Product 798,Classic Cars 821,1:18,Vendor A,"High-quality product 798, designed for performance and durability.",850,562.46,825.29
+PRD00799,Product 799,Classic Cars 835,1:24,Vendor B,"High-quality product 799, designed for performance and durability.",843,572.75,688.34
+PRD00800,Product 800,Motorcycles 360,1:50,Vendor C,"High-quality product 800, designed for performance and durability.",991,193.23,239.68
+PRD00801,Product 801,Classic Cars 161,1:18,Vendor A,"High-quality product 801, designed for performance and durability.",401,696.41,972.33
+PRD00802,Product 802,Classic Cars 456,1:24,Vendor B,"High-quality product 802, designed for performance and durability.",796,196.00,281.69
+PRD00803,Product 803,Ships 86,1:50,Vendor C,"High-quality product 803, designed for performance and durability.",254,143.50,200.16
+PRD00804,Product 804,Planes 307,1:18,Vendor A,"High-quality product 804, designed for performance and durability.",441,49.89,67.18
+PRD00805,Product 805,Classic Cars 487,1:24,Vendor B,"High-quality product 805, designed for performance and durability.",531,441.54,554.41
+PRD00806,Product 806,Planes 427,1:50,Vendor C,"High-quality product 806, designed for performance and durability.",204,172.74,234.99
+PRD00807,Product 807,Trains 884,1:18,Vendor A,"High-quality product 807, designed for performance and durability.",263,113.06,149.03
+PRD00808,Product 808,Trains 771,1:24,Vendor B,"High-quality product 808, designed for performance and durability.",585,910.84,1283.89
+PRD00809,Product 809,Planes 660,1:50,Vendor C,"High-quality product 809, designed for performance and durability.",721,376.07,455.82
+PRD00810,Product 810,Planes 885,1:18,Vendor A,"High-quality product 810, designed for performance and durability.",818,533.87,773.75
+PRD00811,Product 811,Ships 554,1:24,Vendor B,"High-quality product 811, designed for performance and durability.",87,690.30,832.24
+PRD00812,Product 812,Trains 69,1:50,Vendor C,"High-quality product 812, designed for performance and durability.",504,220.73,285.68
+PRD00813,Product 813,Trains 39,1:18,Vendor A,"High-quality product 813, designed for performance and durability.",861,584.85,795.55
+PRD00814,Product 814,Trains 137,1:24,Vendor B,"High-quality product 814, designed for performance and durability.",260,160.77,231.63
+PRD00815,Product 815,Trains 303,1:50,Vendor C,"High-quality product 815, designed for performance and durability.",502,587.95,823.12
+PRD00816,Product 816,Motorcycles 263,1:18,Vendor A,"High-quality product 816, designed for performance and durability.",615,120.07,147.81
+PRD00817,Product 817,Planes 842,1:24,Vendor B,"High-quality product 817, designed for performance and durability.",169,246.14,345.87
+PRD00818,Product 818,Motorcycles 113,1:50,Vendor C,"High-quality product 818, designed for performance and durability.",733,470.84,577.68
+PRD00819,Product 819,Motorcycles 710,1:18,Vendor A,"High-quality product 819, designed for performance and durability.",238,716.38,1056.42
+PRD00820,Product 820,Classic Cars 677,1:24,Vendor B,"High-quality product 820, designed for performance and durability.",134,913.76,1152.67
+PRD00821,Product 821,Motorcycles 512,1:50,Vendor C,"High-quality product 821, designed for performance and durability.",67,23.97,32.51
+PRD00822,Product 822,Ships 976,1:18,Vendor A,"High-quality product 822, designed for performance and durability.",289,483.17,596.22
+PRD00823,Product 823,Trains 54,1:24,Vendor B,"High-quality product 823, designed for performance and durability.",67,31.72,39.61
+PRD00824,Product 824,Planes 115,1:50,Vendor C,"High-quality product 824, designed for performance and durability.",149,844.76,1180.51
+PRD00825,Product 825,Classic Cars 526,1:18,Vendor A,"High-quality product 825, designed for performance and durability.",565,711.97,1034.30
+PRD00826,Product 826,Trains 628,1:24,Vendor B,"High-quality product 826, designed for performance and durability.",121,113.93,167.81
+PRD00827,Product 827,Trains 303,1:50,Vendor C,"High-quality product 827, designed for performance and durability.",251,980.53,1203.11
+PRD00828,Product 828,Classic Cars 390,1:18,Vendor A,"High-quality product 828, designed for performance and durability.",824,821.66,1175.62
+PRD00829,Product 829,Classic Cars 114,1:24,Vendor B,"High-quality product 829, designed for performance and durability.",897,541.02,693.09
+PRD00830,Product 830,Trains 54,1:50,Vendor C,"High-quality product 830, designed for performance and durability.",351,770.85,1117.99
+PRD00831,Product 831,Motorcycles 349,1:18,Vendor A,"High-quality product 831, designed for performance and durability.",563,561.12,838.07
+PRD00832,Product 832,Motorcycles 74,1:24,Vendor B,"High-quality product 832, designed for performance and durability.",813,618.19,871.09
+PRD00833,Product 833,Motorcycles 249,1:50,Vendor C,"High-quality product 833, designed for performance and durability.",984,253.22,333.16
+PRD00834,Product 834,Planes 486,1:18,Vendor A,"High-quality product 834, designed for performance and durability.",285,342.49,458.18
+PRD00835,Product 835,Classic Cars 851,1:24,Vendor B,"High-quality product 835, designed for performance and durability.",91,205.87,308.65
+PRD00836,Product 836,Ships 942,1:50,Vendor C,"High-quality product 836, designed for performance and durability.",754,427.85,537.93
+PRD00837,Product 837,Classic Cars 681,1:18,Vendor A,"High-quality product 837, designed for performance and durability.",549,741.53,1109.18
+PRD00838,Product 838,Ships 923,1:24,Vendor B,"High-quality product 838, designed for performance and durability.",182,856.68,1060.31
+PRD00839,Product 839,Classic Cars 291,1:50,Vendor C,"High-quality product 839, designed for performance and durability.",982,371.64,555.57
+PRD00840,Product 840,Motorcycles 394,1:18,Vendor A,"High-quality product 840, designed for performance and durability.",348,88.20,109.00
+PRD00841,Product 841,Classic Cars 424,1:24,Vendor B,"High-quality product 841, designed for performance and durability.",380,320.93,420.05
+PRD00842,Product 842,Classic Cars 187,1:50,Vendor C,"High-quality product 842, designed for performance and durability.",591,926.69,1230.53
+PRD00843,Product 843,Motorcycles 548,1:18,Vendor A,"High-quality product 843, designed for performance and durability.",870,300.94,367.26
+PRD00844,Product 844,Trains 584,1:24,Vendor B,"High-quality product 844, designed for performance and durability.",907,648.22,929.95
+PRD00845,Product 845,Trains 383,1:50,Vendor C,"High-quality product 845, designed for performance and durability.",207,799.60,1069.28
+PRD00846,Product 846,Ships 131,1:18,Vendor A,"High-quality product 846, designed for performance and durability.",280,818.64,1043.61
+PRD00847,Product 847,Ships 923,1:24,Vendor B,"High-quality product 847, designed for performance and durability.",374,132.11,173.49
+PRD00848,Product 848,Classic Cars 595,1:50,Vendor C,"High-quality product 848, designed for performance and durability.",599,916.41,1106.21
+PRD00849,Product 849,Motorcycles 49,1:18,Vendor A,"High-quality product 849, designed for performance and durability.",771,900.16,1225.01
+PRD00850,Product 850,Ships 169,1:24,Vendor B,"High-quality product 850, designed for performance and durability.",654,734.53,1014.27
+PRD00851,Product 851,Motorcycles 1000,1:50,Vendor C,"High-quality product 851, designed for performance and durability.",265,489.31,642.14
+PRD00852,Product 852,Trains 293,1:18,Vendor A,"High-quality product 852, designed for performance and durability.",709,488.81,673.07
+PRD00853,Product 853,Classic Cars 320,1:24,Vendor B,"High-quality product 853, designed for performance and durability.",903,585.26,791.13
+PRD00854,Product 854,Classic Cars 191,1:50,Vendor C,"High-quality product 854, designed for performance and durability.",950,285.07,421.25
+PRD00855,Product 855,Planes 444,1:18,Vendor A,"High-quality product 855, designed for performance and durability.",313,430.48,617.86
+PRD00856,Product 856,Trains 534,1:24,Vendor B,"High-quality product 856, designed for performance and durability.",260,454.95,660.51
+PRD00857,Product 857,Classic Cars 430,1:50,Vendor C,"High-quality product 857, designed for performance and durability.",266,420.30,587.35
+PRD00858,Product 858,Classic Cars 945,1:18,Vendor A,"High-quality product 858, designed for performance and durability.",304,519.27,758.50
+PRD00859,Product 859,Motorcycles 964,1:24,Vendor B,"High-quality product 859, designed for performance and durability.",162,828.37,1216.98
+PRD00860,Product 860,Planes 555,1:50,Vendor C,"High-quality product 860, designed for performance and durability.",360,372.18,543.09
+PRD00861,Product 861,Ships 829,1:18,Vendor A,"High-quality product 861, designed for performance and durability.",110,151.13,214.01
+PRD00862,Product 862,Ships 623,1:24,Vendor B,"High-quality product 862, designed for performance and durability.",702,625.21,766.34
+PRD00863,Product 863,Planes 201,1:50,Vendor C,"High-quality product 863, designed for performance and durability.",897,322.69,397.73
+PRD00864,Product 864,Planes 40,1:18,Vendor A,"High-quality product 864, designed for performance and durability.",279,700.56,1019.64
+PRD00865,Product 865,Ships 666,1:24,Vendor B,"High-quality product 865, designed for performance and durability.",940,648.98,894.77
+PRD00866,Product 866,Ships 97,1:50,Vendor C,"High-quality product 866, designed for performance and durability.",598,126.90,173.17
+PRD00867,Product 867,Ships 254,1:18,Vendor A,"High-quality product 867, designed for performance and durability.",877,935.10,1181.25
+PRD00868,Product 868,Planes 11,1:24,Vendor B,"High-quality product 868, designed for performance and durability.",705,850.10,1070.48
+PRD00869,Product 869,Classic Cars 120,1:50,Vendor C,"High-quality product 869, designed for performance and durability.",116,639.23,785.65
+PRD00870,Product 870,Ships 270,1:18,Vendor A,"High-quality product 870, designed for performance and durability.",651,641.45,901.93
+PRD00871,Product 871,Trains 190,1:24,Vendor B,"High-quality product 871, designed for performance and durability.",403,278.20,374.14
+PRD00872,Product 872,Trains 330,1:50,Vendor C,"High-quality product 872, designed for performance and durability.",92,802.58,1014.98
+PRD00873,Product 873,Ships 607,1:18,Vendor A,"High-quality product 873, designed for performance and durability.",778,447.22,566.19
+PRD00874,Product 874,Planes 627,1:24,Vendor B,"High-quality product 874, designed for performance and durability.",757,152.19,200.20
+PRD00875,Product 875,Motorcycles 45,1:50,Vendor C,"High-quality product 875, designed for performance and durability.",375,610.96,772.79
+PRD00876,Product 876,Trains 780,1:18,Vendor A,"High-quality product 876, designed for performance and durability.",861,210.37,313.74
+PRD00877,Product 877,Ships 844,1:24,Vendor B,"High-quality product 877, designed for performance and durability.",220,524.25,737.39
+PRD00878,Product 878,Planes 85,1:50,Vendor C,"High-quality product 878, designed for performance and durability.",171,292.69,411.76
+PRD00879,Product 879,Ships 68,1:18,Vendor A,"High-quality product 879, designed for performance and durability.",606,905.46,1307.54
+PRD00880,Product 880,Motorcycles 382,1:24,Vendor B,"High-quality product 880, designed for performance and durability.",953,462.03,577.87
+PRD00881,Product 881,Trains 423,1:50,Vendor C,"High-quality product 881, designed for performance and durability.",335,50.53,68.55
+PRD00882,Product 882,Planes 468,1:18,Vendor A,"High-quality product 882, designed for performance and durability.",192,15.03,18.91
+PRD00883,Product 883,Classic Cars 932,1:24,Vendor B,"High-quality product 883, designed for performance and durability.",369,874.98,1078.05
+PRD00884,Product 884,Motorcycles 516,1:50,Vendor C,"High-quality product 884, designed for performance and durability.",680,763.94,1041.35
+PRD00885,Product 885,Classic Cars 83,1:18,Vendor A,"High-quality product 885, designed for performance and durability.",947,896.20,1194.79
+PRD00886,Product 886,Ships 356,1:24,Vendor B,"High-quality product 886, designed for performance and durability.",128,924.72,1163.08
+PRD00887,Product 887,Motorcycles 618,1:50,Vendor C,"High-quality product 887, designed for performance and durability.",170,994.38,1295.66
+PRD00888,Product 888,Ships 790,1:18,Vendor A,"High-quality product 888, designed for performance and durability.",323,460.42,645.78
+PRD00889,Product 889,Planes 468,1:24,Vendor B,"High-quality product 889, designed for performance and durability.",272,644.23,823.45
+PRD00890,Product 890,Planes 47,1:50,Vendor C,"High-quality product 890, designed for performance and durability.",485,228.76,274.96
+PRD00891,Product 891,Motorcycles 230,1:18,Vendor A,"High-quality product 891, designed for performance and durability.",862,254.43,344.74
+PRD00892,Product 892,Ships 814,1:24,Vendor B,"High-quality product 892, designed for performance and durability.",425,277.56,377.74
+PRD00893,Product 893,Ships 918,1:50,Vendor C,"High-quality product 893, designed for performance and durability.",58,922.99,1327.09
+PRD00894,Product 894,Ships 149,1:18,Vendor A,"High-quality product 894, designed for performance and durability.",301,104.58,133.00
+PRD00895,Product 895,Ships 720,1:24,Vendor B,"High-quality product 895, designed for performance and durability.",806,279.45,398.11
+PRD00896,Product 896,Planes 566,1:50,Vendor C,"High-quality product 896, designed for performance and durability.",960,446.14,558.85
+PRD00897,Product 897,Planes 431,1:18,Vendor A,"High-quality product 897, designed for performance and durability.",456,69.86,86.08
+PRD00898,Product 898,Classic Cars 369,1:24,Vendor B,"High-quality product 898, designed for performance and durability.",729,533.65,690.94
+PRD00899,Product 899,Trains 837,1:50,Vendor C,"High-quality product 899, designed for performance and durability.",943,845.74,1253.69
+PRD00900,Product 900,Trains 950,1:18,Vendor A,"High-quality product 900, designed for performance and durability.",579,60.62,89.91
+PRD00901,Product 901,Classic Cars 508,1:24,Vendor B,"High-quality product 901, designed for performance and durability.",680,71.77,95.87
+PRD00902,Product 902,Trains 319,1:50,Vendor C,"High-quality product 902, designed for performance and durability.",981,767.69,1119.61
+PRD00903,Product 903,Classic Cars 56,1:18,Vendor A,"High-quality product 903, designed for performance and durability.",677,992.73,1306.02
+PRD00904,Product 904,Motorcycles 651,1:24,Vendor B,"High-quality product 904, designed for performance and durability.",892,746.20,952.53
+PRD00905,Product 905,Trains 853,1:50,Vendor C,"High-quality product 905, designed for performance and durability.",417,231.87,284.84
+PRD00906,Product 906,Classic Cars 481,1:18,Vendor A,"High-quality product 906, designed for performance and durability.",469,369.52,482.22
+PRD00907,Product 907,Planes 795,1:24,Vendor B,"High-quality product 907, designed for performance and durability.",680,708.68,1034.75
+PRD00908,Product 908,Planes 986,1:50,Vendor C,"High-quality product 908, designed for performance and durability.",719,835.07,1174.49
+PRD00909,Product 909,Planes 931,1:18,Vendor A,"High-quality product 909, designed for performance and durability.",330,682.84,843.27
+PRD00910,Product 910,Classic Cars 320,1:24,Vendor B,"High-quality product 910, designed for performance and durability.",182,137.20,189.52
+PRD00911,Product 911,Planes 858,1:50,Vendor C,"High-quality product 911, designed for performance and durability.",413,139.30,191.15
+PRD00912,Product 912,Ships 991,1:18,Vendor A,"High-quality product 912, designed for performance and durability.",86,808.23,979.61
+PRD00913,Product 913,Ships 257,1:24,Vendor B,"High-quality product 913, designed for performance and durability.",994,587.74,818.34
+PRD00914,Product 914,Ships 737,1:50,Vendor C,"High-quality product 914, designed for performance and durability.",531,25.96,36.67
+PRD00915,Product 915,Trains 561,1:18,Vendor A,"High-quality product 915, designed for performance and durability.",975,954.40,1218.51
+PRD00916,Product 916,Trains 601,1:24,Vendor B,"High-quality product 916, designed for performance and durability.",876,440.18,562.44
+PRD00917,Product 917,Ships 220,1:50,Vendor C,"High-quality product 917, designed for performance and durability.",601,770.41,1115.31
+PRD00918,Product 918,Ships 337,1:18,Vendor A,"High-quality product 918, designed for performance and durability.",399,717.92,934.88
+PRD00919,Product 919,Motorcycles 286,1:24,Vendor B,"High-quality product 919, designed for performance and durability.",159,688.81,990.61
+PRD00920,Product 920,Motorcycles 613,1:50,Vendor C,"High-quality product 920, designed for performance and durability.",715,683.82,833.13
+PRD00921,Product 921,Planes 982,1:18,Vendor A,"High-quality product 921, designed for performance and durability.",909,950.80,1332.82
+PRD00922,Product 922,Ships 607,1:24,Vendor B,"High-quality product 922, designed for performance and durability.",991,136.08,177.01
+PRD00923,Product 923,Classic Cars 726,1:50,Vendor C,"High-quality product 923, designed for performance and durability.",713,77.64,107.66
+PRD00924,Product 924,Classic Cars 664,1:18,Vendor A,"High-quality product 924, designed for performance and durability.",677,708.36,984.93
+PRD00925,Product 925,Planes 392,1:24,Vendor B,"High-quality product 925, designed for performance and durability.",903,40.93,49.13
+PRD00926,Product 926,Planes 132,1:50,Vendor C,"High-quality product 926, designed for performance and durability.",136,204.14,254.88
+PRD00927,Product 927,Classic Cars 676,1:18,Vendor A,"High-quality product 927, designed for performance and durability.",85,601.64,746.04
+PRD00928,Product 928,Motorcycles 512,1:24,Vendor B,"High-quality product 928, designed for performance and durability.",760,97.02,128.46
+PRD00929,Product 929,Classic Cars 562,1:50,Vendor C,"High-quality product 929, designed for performance and durability.",176,857.83,1222.79
+PRD00930,Product 930,Motorcycles 748,1:18,Vendor A,"High-quality product 930, designed for performance and durability.",236,750.82,916.52
+PRD00931,Product 931,Planes 150,1:24,Vendor B,"High-quality product 931, designed for performance and durability.",352,812.49,1029.91
+PRD00932,Product 932,Trains 946,1:50,Vendor C,"High-quality product 932, designed for performance and durability.",661,999.54,1452.49
+PRD00933,Product 933,Motorcycles 648,1:18,Vendor A,"High-quality product 933, designed for performance and durability.",568,376.59,510.93
+PRD00934,Product 934,Trains 299,1:24,Vendor B,"High-quality product 934, designed for performance and durability.",376,984.96,1245.23
+PRD00935,Product 935,Ships 745,1:50,Vendor C,"High-quality product 935, designed for performance and durability.",487,834.88,1005.73
+PRD00936,Product 936,Trains 602,1:18,Vendor A,"High-quality product 936, designed for performance and durability.",870,744.45,1080.08
+PRD00937,Product 937,Ships 924,1:24,Vendor B,"High-quality product 937, designed for performance and durability.",832,473.61,654.52
+PRD00938,Product 938,Ships 654,1:50,Vendor C,"High-quality product 938, designed for performance and durability.",744,12.65,15.77
+PRD00939,Product 939,Classic Cars 487,1:18,Vendor A,"High-quality product 939, designed for performance and durability.",720,361.57,539.93
+PRD00940,Product 940,Motorcycles 731,1:24,Vendor B,"High-quality product 940, designed for performance and durability.",431,675.12,955.19
+PRD00941,Product 941,Planes 468,1:50,Vendor C,"High-quality product 941, designed for performance and durability.",591,718.87,1006.17
+PRD00942,Product 942,Trains 706,1:18,Vendor A,"High-quality product 942, designed for performance and durability.",765,298.93,405.13
+PRD00943,Product 943,Planes 982,1:24,Vendor B,"High-quality product 943, designed for performance and durability.",678,110.04,143.42
+PRD00944,Product 944,Motorcycles 175,1:50,Vendor C,"High-quality product 944, designed for performance and durability.",220,874.07,1206.47
+PRD00945,Product 945,Trains 534,1:18,Vendor A,"High-quality product 945, designed for performance and durability.",303,376.23,559.19
+PRD00946,Product 946,Classic Cars 194,1:24,Vendor B,"High-quality product 946, designed for performance and durability.",904,682.16,935.53
+PRD00947,Product 947,Classic Cars 82,1:50,Vendor C,"High-quality product 947, designed for performance and durability.",559,315.30,418.29
+PRD00948,Product 948,Classic Cars 625,1:18,Vendor A,"High-quality product 948, designed for performance and durability.",690,994.33,1379.08
+PRD00949,Product 949,Classic Cars 451,1:24,Vendor B,"High-quality product 949, designed for performance and durability.",321,521.17,687.02
+PRD00950,Product 950,Ships 90,1:50,Vendor C,"High-quality product 950, designed for performance and durability.",222,77.78,103.72
+PRD00951,Product 951,Ships 654,1:18,Vendor A,"High-quality product 951, designed for performance and durability.",597,683.11,933.54
+PRD00952,Product 952,Ships 649,1:24,Vendor B,"High-quality product 952, designed for performance and durability.",312,113.29,160.05
+PRD00953,Product 953,Planes 586,1:50,Vendor C,"High-quality product 953, designed for performance and durability.",570,310.73,420.18
+PRD00954,Product 954,Planes 107,1:18,Vendor A,"High-quality product 954, designed for performance and durability.",789,492.39,597.20
+PRD00955,Product 955,Motorcycles 936,1:24,Vendor B,"High-quality product 955, designed for performance and durability.",400,168.47,246.00
+PRD00956,Product 956,Classic Cars 785,1:50,Vendor C,"High-quality product 956, designed for performance and durability.",695,649.09,883.69
+PRD00957,Product 957,Motorcycles 49,1:18,Vendor A,"High-quality product 957, designed for performance and durability.",615,594.08,787.24
+PRD00958,Product 958,Planes 815,1:24,Vendor B,"High-quality product 958, designed for performance and durability.",501,549.17,814.93
+PRD00959,Product 959,Motorcycles 548,1:50,Vendor C,"High-quality product 959, designed for performance and durability.",732,483.99,646.96
+PRD00960,Product 960,Ships 844,1:18,Vendor A,"High-quality product 960, designed for performance and durability.",659,158.34,191.51
+PRD00961,Product 961,Trains 689,1:24,Vendor B,"High-quality product 961, designed for performance and durability.",493,286.96,388.79
+PRD00962,Product 962,Motorcycles 91,1:50,Vendor C,"High-quality product 962, designed for performance and durability.",324,82.47,102.60
+PRD00963,Product 963,Planes 71,1:18,Vendor A,"High-quality product 963, designed for performance and durability.",117,425.45,544.55
+PRD00964,Product 964,Motorcycles 772,1:24,Vendor B,"High-quality product 964, designed for performance and durability.",910,823.78,1184.54
+PRD00965,Product 965,Classic Cars 279,1:50,Vendor C,"High-quality product 965, designed for performance and durability.",675,942.75,1403.36
+PRD00966,Product 966,Motorcycles 235,1:18,Vendor A,"High-quality product 966, designed for performance and durability.",505,720.04,868.07
+PRD00967,Product 967,Classic Cars 1,1:24,Vendor B,"High-quality product 967, designed for performance and durability.",596,26.05,38.63
+PRD00968,Product 968,Trains 53,1:50,Vendor C,"High-quality product 968, designed for performance and durability.",693,714.44,891.70
+PRD00969,Product 969,Motorcycles 908,1:18,Vendor A,"High-quality product 969, designed for performance and durability.",583,402.24,576.47
+PRD00970,Product 970,Ships 300,1:24,Vendor B,"High-quality product 970, designed for performance and durability.",380,306.32,403.98
+PRD00971,Product 971,Planes 497,1:50,Vendor C,"High-quality product 971, designed for performance and durability.",137,769.95,981.69
+PRD00972,Product 972,Planes 592,1:18,Vendor A,"High-quality product 972, designed for performance and durability.",106,563.48,785.50
+PRD00973,Product 973,Motorcycles 863,1:24,Vendor B,"High-quality product 973, designed for performance and durability.",378,17.86,23.00
+PRD00974,Product 974,Planes 963,1:50,Vendor C,"High-quality product 974, designed for performance and durability.",623,615.38,891.26
+PRD00975,Product 975,Classic Cars 821,1:18,Vendor A,"High-quality product 975, designed for performance and durability.",970,668.62,891.91
+PRD00976,Product 976,Trains 341,1:24,Vendor B,"High-quality product 976, designed for performance and durability.",271,141.35,173.07
+PRD00977,Product 977,Ships 645,1:50,Vendor C,"High-quality product 977, designed for performance and durability.",348,825.75,1163.20
+PRD00978,Product 978,Ships 2,1:18,Vendor A,"High-quality product 978, designed for performance and durability.",193,339.45,435.72
+PRD00979,Product 979,Planes 864,1:24,Vendor B,"High-quality product 979, designed for performance and durability.",556,622.46,887.97
+PRD00980,Product 980,Trains 565,1:50,Vendor C,"High-quality product 980, designed for performance and durability.",867,201.91,255.20
+PRD00981,Product 981,Planes 268,1:18,Vendor A,"High-quality product 981, designed for performance and durability.",606,635.23,777.87
+PRD00982,Product 982,Trains 179,1:24,Vendor B,"High-quality product 982, designed for performance and durability.",484,982.83,1251.35
+PRD00983,Product 983,Ships 989,1:50,Vendor C,"High-quality product 983, designed for performance and durability.",938,967.34,1233.12
+PRD00984,Product 984,Motorcycles 316,1:18,Vendor A,"High-quality product 984, designed for performance and durability.",819,22.53,28.17
+PRD00985,Product 985,Planes 838,1:24,Vendor B,"High-quality product 985, designed for performance and durability.",795,759.23,1061.54
+PRD00986,Product 986,Ships 649,1:50,Vendor C,"High-quality product 986, designed for performance and durability.",982,531.05,674.76
+PRD00987,Product 987,Planes 132,1:18,Vendor A,"High-quality product 987, designed for performance and durability.",292,733.28,1079.46
+PRD00988,Product 988,Motorcycles 801,1:24,Vendor B,"High-quality product 988, designed for performance and durability.",795,625.13,911.03
+PRD00989,Product 989,Ships 30,1:50,Vendor C,"High-quality product 989, designed for performance and durability.",458,310.37,444.30
+PRD00990,Product 990,Trains 294,1:18,Vendor A,"High-quality product 990, designed for performance and durability.",478,462.84,597.04
+PRD00991,Product 991,Motorcycles 905,1:24,Vendor B,"High-quality product 991, designed for performance and durability.",281,218.15,326.87
+PRD00992,Product 992,Planes 995,1:50,Vendor C,"High-quality product 992, designed for performance and durability.",319,441.26,571.80
+PRD00993,Product 993,Planes 421,1:18,Vendor A,"High-quality product 993, designed for performance and durability.",919,468.43,573.63
+PRD00994,Product 994,Planes 427,1:24,Vendor B,"High-quality product 994, designed for performance and durability.",124,112.65,148.04
+PRD00995,Product 995,Ships 763,1:50,Vendor C,"High-quality product 995, designed for performance and durability.",435,421.61,562.47
+PRD00996,Product 996,Planes 443,1:18,Vendor A,"High-quality product 996, designed for performance and durability.",57,932.82,1189.76
+PRD00997,Product 997,Trains 779,1:24,Vendor B,"High-quality product 997, designed for performance and durability.",355,747.93,914.40
+PRD00998,Product 998,Ships 925,1:50,Vendor C,"High-quality product 998, designed for performance and durability.",179,88.82,108.79
+PRD00999,Product 999,Trains 799,1:18,Vendor A,"High-quality product 999, designed for performance and durability.",971,741.44,929.87
+PRD01000,Product 1000,Planes 732,1:24,Vendor B,"High-quality product 1000, designed for performance and durability.",669,364.80,483.26

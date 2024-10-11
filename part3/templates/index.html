@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customer Churn Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Customer Churn Prediction</h1>
+    <form action="/predict" method="POST">
+        <label for="totalOrders">Total Orders:</label>
+        <input type="number" name="totalOrders" required><br>
+
+        <label for="avgOrderValue">Average Order Value:</label>
+        <input type="number" step="0.01" name="avgOrderValue" required><br>
+
+        <label for="totalReviews">Total Reviews:</label>
+        <input type="number" name="totalReviews" required><br>
+
+        <label for="negativeReviews">Total Negative Reviews:</label>
+        <input type="number" name="negativeReviews" required><br>
+
+        <label for="totalInteractions">Total Interactions:</label>
+        <input type="number" name="totalInteractions" required><br>
+
+        <input type="submit" value="Predict Churn">
+    </form>
+</body>
+</html>
